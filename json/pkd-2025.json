@@ -189,7 +189,7 @@
             {
               "classes": [],
               "code": "02.1",
-              "name": "02.10  02.10.Z  Gospodarka leśna i pozostała działalność leśna, z"
+              "name": "02.10  02.10.Z  Gospodarka leśna i pozostała działalność leśna, z wyłączeniem pozyskiwania produktów leśnych"
             },
             {
               "classes": [],
@@ -199,7 +199,7 @@
             {
               "classes": [],
               "code": "02.3",
-              "name": "02.30  02.30.Z  Pozyskiwanie dziko rosnących produktów leśnych, z"
+              "name": "02.30  02.30.Z  Pozyskiwanie dziko rosnących produktów leśnych, z wyłączeniem drewna"
             },
             {
               "classes": [],
@@ -247,7 +247,7 @@
             {
               "classes": [],
               "code": "03.3",
-              "name": "03.30  03.30.Z  Działalność usługowa wspomagająca rybołówstwo i"
+              "name": "03.30  03.30.Z  Działalność usługowa wspomagająca rybołówstwo i akwakulturę"
             }
           ],
           "name": "Rybactwo"
