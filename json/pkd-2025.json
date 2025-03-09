@@ -158,27 +158,27 @@
               "classes": [
                 {
                   "code": "01.61",
-                  "name": "01.61.Z  Działalność usługowa wspomagająca produkcję",
+                  "name": "01.61.Z  Działalność usługowa wspomagająca produkcję roślinną",
                   "subclasses": []
                 },
                 {
                   "code": "01.62",
-                  "name": "01.62.Z  Działalność usługowa wspomagająca chów i",
+                  "name": "01.62.Z  Działalność usługowa wspomagająca chów i hodowlę zwierząt gospodarskich",
                   "subclasses": []
                 },
                 {
                   "code": "01.63",
-                  "name": "01.63.Z  Działalność usługowa następująca po zbiorach oraz",
+                  "name": "01.63.Z  Działalność usługowa następująca po zbiorach oraz obróbka nasion dla celów rozmnażania roślin",
                   "subclasses": []
                 }
               ],
               "code": "01.6",
-              "name": "Działalność usługowa wspomagająca rolnictwo i"
+              "name": "Działalność usługowa wspomagająca rolnictwo i następująca po zbiorach"
             },
             {
               "classes": [],
               "code": "01.7",
-              "name": "01.70  01.70.Z  Łowiectwo i pozyskiwanie zwierząt łownych,"
+              "name": "01.70  01.70.Z  Łowiectwo i pozyskiwanie zwierząt łownych, włączając działalność usługową"
             }
           ],
           "name": "Uprawy rolne, chów i hodowla zwierząt, łowiectwo, włączając działalność usługową"
