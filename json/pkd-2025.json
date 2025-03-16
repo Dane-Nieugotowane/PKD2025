@@ -663,7 +663,7 @@
                 },
                 {
                   "code": "13.93",
-                  "name": "13.93.Z  Produkcja dywanów i chodników 37 Struktura klasyfikacji (wykaz grupowań) Dział  Grupa  Klasa  Podklasa  Nazwa grupowania",
+                  "name": "13.93.Z  Produkcja dywanów i chodników",
                   "subclasses": []
                 },
                 {
@@ -815,7 +815,7 @@
                 },
                 {
                   "code": "16.27",
-                  "name": "16.27.Z  Wykończanie wyrobów drewnianych 38 Struktura klasyfikacji (wykaz grupowań)",
+                  "name": "16.27.Z  Wykończanie wyrobów drewnianych",
                   "subclasses": []
                 },
                 {
@@ -4172,7 +4172,8 @@
                   "name": "Wynajem i dzierżawa samochodów osobowych i lekkich pojazdów silnikowych",
                   "subclasses": [
                     {
-                      "code": "77.11.Z  Wynajem i dzierżawa samochodów osobowych i lekkich pojazdów silnikowych, w tym motocykli"
+                      "code": "77.11.Z",
+                      "name": "77.11.Z  Wynajem i dzierżawa samochodów osobowych i lekkich pojazdów silnikowych, w tym motocykli"
                     }
                   ]
                 },
@@ -4611,7 +4612,11 @@
                     },
                     {
                       "code": "85.59.C",
-                      "name": "85.59.C  Placówki doskonalenia nauczycieli 85.59.D  Pozostałe pozaszkolne formy edukacji, gdzie indziej niesklasyfikowane"
+                      "name": "85.59.C  Placówki doskonalenia nauczycieli"
+                    },
+                    {
+                      "code": "85.59.D",
+                      "naem": "85.59.D  Pozostałe pozaszkolne formy edukacji, gdzie indziej niesklasyfikowane"
                     }
                   ]
                 }
@@ -4929,7 +4934,7 @@
                 },
                 {
                   "code": "91.22",
-                  "name": "91.22.Z  Działalność związana z miejscami historycznymi i pomnikami 65 Struktura klasyfikacji (wykaz grupowań)",
+                  "name": "91.22.Z  Działalność związana z miejscami historycznymi i pomnikami",
                   "subclasses": []
                 }
               ],
