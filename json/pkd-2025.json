@@ -324,7 +324,7 @@
               "classes": [
                 {
                   "code": "08.11",
-                  "name": "08.11.Z  Wydobywanie kamieni ozdobnych, wapienia, gipsu,",
+                  "name": "08.11.Z  Wydobywanie kamieni ozdobnych, wapienia, gipsu, łupków oraz pozostałych kamieni i skał",
                   "subclasses": []
                 },
                 {
@@ -340,7 +340,7 @@
               "classes": [
                 {
                   "code": "08.91",
-                  "name": "08.91.Z  Wydobywanie minerałów dla przemysłu",
+                  "name": "08.91.Z  Wydobywanie minerałów dla przemysłu chemicznego oraz do produkcji nawozów",
                   "subclasses": []
                 },
                 {
@@ -355,12 +355,12 @@
                 },
                 {
                   "code": "08.99",
-                  "name": "08.99.Z  Pozostałe górnictwo i wydobywanie, gdzie indziej",
+                  "name": "08.99.Z  Pozostałe górnictwo i wydobywanie, gdzie indziej niesklasyfikowane",
                   "subclasses": []
                 }
               ],
               "code": "08.9",
-              "name": "Górnictwo i wydobywanie gdzie indziej"
+              "name": "Górnictwo i wydobywanie gdzie indziej niesklasyfikowane"
             }
           ],
           "name": "Pozostałe górnictwo i wydobywanie"
@@ -371,18 +371,17 @@
             {
               "classes": [],
               "code": "09.1",
-              "name": "09.10  09.10.Z  Działalność usługowa wspomagająca eksploatację"
+              "name": "09.10  09.10.Z  Działalność usługowa wspomagająca eksploatację złóż ropy naftowej i gazu ziemnego"
             },
             {
               "classes": [],
               "code": "09.9",
-              "name": "09.90  09.90.Z  Działalność usługowa wspomagająca pozostałe"
+              "name": "09.90  09.90.Z  Działalność usługowa wspomagająca pozostałe górnictwo i wydobywanie"
             }
           ],
-          "name": "Działalność usługowa wspomagająca górnictwo i"
+          "name": "Działalność usługowa wspomagająca górnictwo i wydobywanie"
         }
-      ],
-      "name": "GÓRNICTWO I WYDOBYWANIE"
+      ]
     },
     {
       "code": "C",
@@ -394,7 +393,7 @@
               "classes": [
                 {
                   "code": "10.11",
-                  "name": "10.11.Z  Przetwarzanie i konserwowanie mięsa, z",
+                  "name": "10.11.Z  Przetwarzanie i konserwowanie mięsa, z wyłączeniem mięsa z drobiu",
                   "subclasses": []
                 },
                 {
@@ -404,17 +403,17 @@
                 },
                 {
                   "code": "10.13",
-                  "name": "10.13.Z  Produkcja wyrobów z mięsa, włączając wyroby z",
+                  "name": "10.13.Z  Produkcja wyrobów z mięsa, włączając wyroby z mięsa drobiowego",
                   "subclasses": []
                 }
               ],
               "code": "10.1",
-              "name": "Przetwarzanie i konserwowanie mięsa oraz produkcja"
+              "name": "Przetwarzanie i konserwowanie mięsa oraz produkcja wyrobów z mięsa"
             },
             {
               "classes": [],
               "code": "10.2",
-              "name": "10.20  10.20.Z  Przetwarzanie i konserwowanie ryb, skorupiaków i"
+              "name": "10.20  10.20.Z  Przetwarzanie i konserwowanie ryb, skorupiaków i mięczaków"
             },
             {
               "classes": [
@@ -430,7 +429,7 @@
                 },
                 {
                   "code": "10.39",
-                  "name": "10.39.Z  Pozostałe przetwarzanie i konserwowanie owoców i",
+                  "name": "10.39.Z  Pozostałe przetwarzanie i konserwowanie owoców i warzyw",
                   "subclasses": []
                 }
               ],
@@ -446,12 +445,12 @@
                 },
                 {
                   "code": "10.42",
-                  "name": "10.42.Z  Produkcja margaryny i podobnych tłuszczów",
+                  "name": "10.42.Z  Produkcja margaryny i podobnych tłuszczów jadalnych",
                   "subclasses": []
                 }
               ],
               "code": "10.4",
-              "name": "Produkcja olejów i tłuszczów pochodzenia"
+              "name": "Produkcja olejów i tłuszczów pochodzenia roślinnego i zwierzęcego"
             },
             {
               "classes": [
@@ -462,12 +461,12 @@
                 },
                 {
                   "code": "10.52",
-                  "name": "10.52.Z  Produkcja lodów śmietankowych i pozostałych",
+                  "name": "10.52.Z  Produkcja lodów śmietankowych i pozostałych lodów jadalnych",
                   "subclasses": []
                 }
               ],
               "code": "10.5",
-              "name": "Wytwarzanie wyrobów mleczarskich i lodów"
+              "name": "Wytwarzanie wyrobów mleczarskich i lodów jadalnych"
             },
             {
               "classes": [
@@ -483,18 +482,18 @@
                 }
               ],
               "code": "10.6",
-              "name": "Wytwarzanie produktów przemiału zbóż, skrobi i"
+              "name": "Wytwarzanie produktów przemiału zbóż, skrobi i wyrobów skrobiowych"
             },
             {
               "classes": [
                 {
                   "code": "10.71",
-                  "name": "10.71.Z  Produkcja pieczywa; produkcja świeżych wyrobów",
+                  "name": "10.71.Z  Produkcja pieczywa; produkcja świeżych wyrobów ciastkarskich i ciastek",
                   "subclasses": []
                 },
                 {
                   "code": "10.72",
-                  "name": "10.72.Z  Produkcja sucharów, herbatników, konserwowanych",
+                  "name": "10.72.Z  Produkcja sucharów, herbatników, konserwowanych wyrobów ciastkarskich i ciastek",
                   "subclasses": []
                 },
                 {
@@ -515,7 +514,7 @@
                 },
                 {
                   "code": "10.82",
-                  "name": "10.82.Z  Produkcja kakao, czekolady i wyrobów",
+                  "name": "10.82.Z  Produkcja kakao, czekolady i wyrobów cukierniczych",
                   "subclasses": []
                 },
                 {
@@ -535,13 +534,34 @@
                 },
                 {
                   "code": "10.86",
-                  "name": "10.86.Z  Produkcja artykułów spożywczych",
+                  "name": "10.86.Z  Produkcja artykułów spożywczych homogenizowanych i żywności dietetycznej",
                   "subclasses": []
                 },
                 {
                   "code": "10.89",
-                  "name": "Produkcja pozostałych artykułów spożywczych,",
-                  "subclasses": []
+                  "name": "Produkcja pozostałych artykułów spożywczych, gdzie indziej niesklasyfikowana",
+                  "subclasses": [
+                    {
+                      "code": "10.89.A",
+                      "name": "Produkcja suplementów diety",
+                      "subclasses": []
+                    },
+                    {
+                      "code": "10.89.B",
+                      "name": "Produkcja substytutów mięsa",
+                      "subclasses": []
+                    },
+                    {
+                      "code": "10.89.C",
+                      "name": "Produkcja roślinnych substytutów dla jaj, nabiału i innych produktów mlecznych, z wyłączeniem napojów",
+                      "subclasses": []
+                    },
+                    {
+                      "code": "10.89.D",
+                      "name": "Produkcja pozostałych artykułów spożywczych, z wyłączeniem suplementów diety, substytutów mięsa, roślinnych substytutów dla jaj, nabiału i innych produktów mlecznych, gdzie indziej niesklasyfikowana",
+                      "subclasses": []
+                    }
+                  ]
                 }
               ],
               "code": "10.8",
@@ -571,12 +591,12 @@
                 },
                 {
                   "code": "11.03",
-                  "name": "11.03.Z  Produkcja cydru i pozostałych owocowych napojów",
+                  "name": "11.03.Z  Produkcja cydru i pozostałych owocowych napojów fermentowanych",
                   "subclasses": []
                 },
                 {
                   "code": "11.04",
-                  "name": "11.04.Z  Produkcja pozostałych niedestylowanych napojów",
+                  "name": "11.04.Z  Produkcja pozostałych niedestylowanych napojów fermentowanych",
                   "subclasses": []
                 },
                 {
@@ -591,7 +611,7 @@
                 },
                 {
                   "code": "11.07",
-                  "name": "11.07.Z  Produkcja napojów bezalkoholowych i wód",
+                  "name": "11.07.Z  Produkcja napojów bezalkoholowych i wód butelkowanych",
                   "subclasses": []
                 }
               ],
@@ -638,32 +658,32 @@
                 },
                 {
                   "code": "13.92",
-                  "name": "13.92.Z  Produkcja wyrobów tekstylnych dla gospodarstw",
+                  "name": "13.92.Z  Produkcja wyrobów tekstylnych dla gospodarstw domowych i gotowych artykułów wyposażenia wnętrz",
                   "subclasses": []
                 },
                 {
                   "code": "13.93",
-                  "name": "13.93.Z  Produkcja dywanów i chodników",
+                  "name": "13.93.Z  Produkcja dywanów i chodników 37 Struktura klasyfikacji (wykaz grupowań) Dział  Grupa  Klasa  Podklasa  Nazwa grupowania",
                   "subclasses": []
                 },
                 {
                   "code": "13.94",
-                  "name": "13.94.Z  Produkcja wyrobów powroźniczych, lin, szpagatów i",
+                  "name": "13.94.Z  Produkcja wyrobów powroźniczych, lin, szpagatów i wyrobów sieciowych",
                   "subclasses": []
                 },
                 {
                   "code": "13.95",
-                  "name": "13.95.Z  Produkcja włóknin i wyrobów wykonanych z",
+                  "name": "13.95.Z  Produkcja włóknin i wyrobów wykonanych z włókniny",
                   "subclasses": []
                 },
                 {
                   "code": "13.96",
-                  "name": "13.96.Z  Produkcja pozostałych technicznych i",
+                  "name": "13.96.Z  Produkcja pozostałych technicznych i przemysłowych wyrobów tekstylnych",
                   "subclasses": []
                 },
                 {
                   "code": "13.99",
-                  "name": "13.99.Z  Produkcja pozostałych wyrobów tekstylnych, gdzie",
+                  "name": "13.99.Z  Produkcja pozostałych wyrobów tekstylnych, gdzie indziej niesklasyfikowana",
                   "subclasses": []
                 }
               ],
@@ -705,7 +725,7 @@
                 },
                 {
                   "code": "14.29",
-                  "name": "14.29.Z  Produkcja pozostałej odzieży i dodatków do odzieży,",
+                  "name": "14.29.Z  Produkcja pozostałej odzieży i dodatków do odzieży, gdzie indziej niesklasyfikowana",
                   "subclasses": []
                 }
               ],
@@ -722,17 +742,17 @@
               "classes": [
                 {
                   "code": "15.11",
-                  "name": "15.11.Z  Garbowanie, barwienie, wyprawa skór, w tym",
+                  "name": "15.11.Z  Garbowanie, barwienie, wyprawa skór, w tym futerkowych",
                   "subclasses": []
                 },
                 {
                   "code": "15.12",
-                  "name": "15.12.Z  Produkcja toreb bagażowych, toreb ręcznych i",
+                  "name": "15.12.Z  Produkcja toreb bagażowych, toreb ręcznych i podobnych wyrobów kaletniczych; produkcja wyrobów rymarskich z dowolnego materiału",
                   "subclasses": []
                 }
               ],
               "code": "15.1",
-              "name": "Garbowanie, barwienie, wyprawa skór, w tym"
+              "name": "Garbowanie, barwienie, wyprawa skór, w tym futerkowych; produkcja toreb bagażowych, toreb ręcznych i podobnych wyrobów kaletniczych; produkcja wyrobów rymarskich"
             },
             {
               "classes": [],
@@ -740,7 +760,7 @@
               "name": "15.20  15.20.Z  Produkcja obuwia"
             }
           ],
-          "name": "Produkcja skór i wyrobów ze skór wyprawionych,"
+          "name": "Produkcja skór i wyrobów ze skór wyprawionych, produkcja podobnych wyrobów z innych materiałów"
         },
         {
           "code": "16",
@@ -759,13 +779,13 @@
                 }
               ],
               "code": "16.1",
-              "name": "Produkcja wyrobów tartacznych; obróbka i"
+              "name": "Produkcja wyrobów tartacznych; obróbka i wykończanie wyrobów tartacznych"
             },
             {
               "classes": [
                 {
                   "code": "16.21",
-                  "name": "16.21.Z  Produkcja arkuszy fornirowych i płyt wykonanych na",
+                  "name": "16.21.Z  Produkcja arkuszy fornirowych i płyt wykonanych na bazie drewna",
                   "subclasses": []
                 },
                 {
@@ -775,7 +795,7 @@
                 },
                 {
                   "code": "16.23",
-                  "name": "16.23.Z  Produkcja pozostałych wyrobów stolarskich i",
+                  "name": "16.23.Z  Produkcja pozostałych wyrobów stolarskich i ciesielskich dla budownictwa",
                   "subclasses": []
                 },
                 {
@@ -795,20 +815,20 @@
                 },
                 {
                   "code": "16.27",
-                  "name": "16.27.Z  Wykończanie wyrobów drewnianych",
+                  "name": "16.27.Z  Wykończanie wyrobów drewnianych 38 Struktura klasyfikacji (wykaz grupowań)",
                   "subclasses": []
                 },
                 {
                   "code": "16.28",
-                  "name": "16.28.Z  Produkcja pozostałych wyrobów z drewna oraz",
+                  "name": "16.28.Z  Produkcja pozostałych wyrobów z drewna oraz wyrobów z korka, słomy i materiałów używanych do wyplatania",
                   "subclasses": []
                 }
               ],
               "code": "16.2",
-              "name": "Produkcja wyrobów z drewna, korka, słomy i"
+              "name": "Produkcja wyrobów z drewna, korka, słomy i materiałów używanych do wyplatania"
             }
           ],
-          "name": "Produkcja wyrobów z drewna i korka, z wyłączeniem"
+          "name": "Produkcja wyrobów z drewna i korka, z wyłączeniem mebli; produkcja wyrobów ze słomy i materiałów używanych do wyplatania"
         },
         {
           "code": "17",
@@ -833,12 +853,12 @@
               "classes": [
                 {
                   "code": "17.21",
-                  "name": "17.21.Z  Produkcja papieru falistego, tektury falistej oraz",
+                  "name": "17.21.Z  Produkcja papieru falistego, tektury falistej oraz opakowań z papieru i tektury",
                   "subclasses": []
                 },
                 {
                   "code": "17.22",
-                  "name": "17.22.Z  Produkcja artykułów gospodarstwa domowego,",
+                  "name": "17.22.Z  Produkcja artykułów gospodarstwa domowego, toaletowych i sanitarnych",
                   "subclasses": []
                 },
                 {
@@ -880,7 +900,7 @@
                 },
                 {
                   "code": "18.13",
-                  "name": "18.13.Z  Działalność usługowa związana z",
+                  "name": "18.13.Z  Działalność usługowa związana z przygotowywaniem do druku",
                   "subclasses": []
                 },
                 {
@@ -890,7 +910,7 @@
                 }
               ],
               "code": "18.1",
-              "name": "Drukowanie i działalność usługowa związana z"
+              "name": "Drukowanie i działalność usługowa związana z poligrafią"
             },
             {
               "classes": [],
@@ -898,7 +918,7 @@
               "name": "18.20  18.20.Z  Reprodukcja zapisanych nośników informacji"
             }
           ],
-          "name": "Poligrafia i reprodukcja zapisanych nośników"
+          "name": "Poligrafia i reprodukcja zapisanych nośników informacji"
         },
         {
           "code": "19",
@@ -911,10 +931,10 @@
             {
               "classes": [],
               "code": "19.2",
-              "name": "19.20  19.20.Z  Wytwarzanie i przetwarzanie produktów rafinacji"
+              "name": "19.20  19.20.Z  Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej oraz produktów z paliw kopalnych"
             }
           ],
-          "name": "Wytwarzanie i przetwarzanie koksu i produktów"
+          "name": "Wytwarzanie i przetwarzanie koksu i produktów rafinacji ropy naftowej"
         },
         {
           "code": "20",
@@ -933,12 +953,12 @@
                 },
                 {
                   "code": "20.13",
-                  "name": "20.13.Z  Produkcja pozostałych podstawowych chemikaliów",
+                  "name": "20.13.Z  Produkcja pozostałych podstawowych chemikaliów nieorganicznych",
                   "subclasses": []
                 },
                 {
                   "code": "20.14",
-                  "name": "20.14.Z  Produkcja pozostałych podstawowych chemikaliów",
+                  "name": "20.14.Z  Produkcja pozostałych podstawowych chemikaliów organicznych",
                   "subclasses": []
                 },
                 {
@@ -948,33 +968,46 @@
                 },
                 {
                   "code": "20.16",
-                  "name": "20.16.Z  Produkcja tworzyw sztucznych w formach",
+                  "name": "20.16.Z  Produkcja tworzyw sztucznych w formach podstawowych",
                   "subclasses": []
                 },
                 {
                   "code": "20.17",
-                  "name": "20.17.Z  Produkcja kauczuku syntetycznego w formach",
+                  "name": "20.17.Z  Produkcja kauczuku syntetycznego w formach podstawowych",
                   "subclasses": []
                 }
               ],
               "code": "20.1",
-              "name": "Produkcja podstawowych chemikaliów, nawozów i"
+              "name": "20.10  Produkcja podstawowych chemikaliów, nawozów i związków azotowych, tworzyw sztucznych i kauczuku syntetycznego w formach podstawowych"
             },
             {
-              "classes": [],
+              "classes": [
+                {
+                  "code": "20.20.A",
+                  "name": "20.20.A  Produkcja pestycydów"
+                },
+                {
+                  "code": "20.20.B",
+                  "name": "20.20.B  Produkcja środków dezynfekujących"
+                },
+                {
+                  "code": "20.20.C",
+                  "name": "20.20.C  Produkcja pozostałych środków agrochemicznych"
+                }
+              ],
               "code": "20.2",
-              "name": "20.20  Produkcja pestycydów, środków dezynfekujących i"
+              "name": "20.20  Produkcja pestycydów, środków dezynfekujących i pozostałych środków agrochemicznych"
             },
             {
               "classes": [],
               "code": "20.3",
-              "name": "20.30  20.30.Z  Produkcja farb, lakierów i podobnych powłok, farb"
+              "name": "20.30  20.30.Z  Produkcja farb, lakierów i podobnych powłok, farb drukarskich i mas uszczelniających"
             },
             {
               "classes": [
                 {
                   "code": "20.41",
-                  "name": "20.41.Z  Produkcja mydła i detergentów, środków myjących i",
+                  "name": "20.41.Z  Produkcja mydła i detergentów, środków myjących i czyszczących",
                   "subclasses": []
                 },
                 {
@@ -984,7 +1017,7 @@
                 }
               ],
               "code": "20.4",
-              "name": "Produkcja środków piorących, myjących i"
+              "name": "Produkcja środków piorących, myjących i czyszczących"
             },
             {
               "classes": [
@@ -995,7 +1028,7 @@
                 },
                 {
                   "code": "20.59",
-                  "name": "20.59.Z  Produkcja pozostałych wyrobów chemicznych, gdzie",
+                  "name": "20.59.Z  Produkcja pozostałych wyrobów chemicznych, gdzie indziej niesklasyfikowana",
                   "subclasses": []
                 }
               ],
@@ -1016,15 +1049,15 @@
             {
               "classes": [],
               "code": "21.1",
-              "name": "21.10  21.10.Z  Produkcja podstawowych substancji"
+              "name": "21.10  21.10.Z  Produkcja podstawowych substancji farmaceutycznych"
             },
             {
               "classes": [],
               "code": "21.2",
-              "name": "21.20  21.20.Z  Produkcja leków i pozostałych wyrobów"
+              "name": "21.20  21.20.Z  Produkcja leków i pozostałych wyrobów farmaceutycznych"
             }
           ],
-          "name": "Produkcja podstawowych substancji"
+          "name": "Produkcja podstawowych substancji farmaceutycznych oraz leków i pozostałych wyrobów farmaceutycznych"
         },
         {
           "code": "22",
@@ -1033,7 +1066,7 @@
               "classes": [
                 {
                   "code": "22.11",
-                  "name": "22.11.Z  Produkcja, bieżnikowanie i regenerowanie opon z",
+                  "name": "22.11.Z  Produkcja, bieżnikowanie i regenerowanie opon z gumy oraz produkcja dętek",
                   "subclasses": []
                 },
                 {
@@ -1049,7 +1082,7 @@
               "classes": [
                 {
                   "code": "22.21",
-                  "name": "22.21.Z  Produkcja płyt, arkuszy, rur i kształtowników z",
+                  "name": "22.21.Z  Produkcja płyt, arkuszy, rur i kształtowników z tworzyw sztucznych",
                   "subclasses": []
                 },
                 {
@@ -1064,17 +1097,17 @@
                 },
                 {
                   "code": "22.24",
-                  "name": "22.24.Z  Produkcja wyrobów dla budownictwa z tworzyw",
+                  "name": "22.24.Z  Produkcja wyrobów dla budownictwa z tworzyw sztucznych",
                   "subclasses": []
                 },
                 {
                   "code": "22.25",
-                  "name": "22.25.Z  Obróbka i wykończanie wyrobów z tworzyw",
+                  "name": "22.25.Z  Obróbka i wykończanie wyrobów z tworzyw sztucznych",
                   "subclasses": []
                 },
                 {
                   "code": "22.26",
-                  "name": "22.26.Z  Produkcja pozostałych wyrobów z tworzyw",
+                  "name": "22.26.Z  Produkcja pozostałych wyrobów z tworzyw sztucznych",
                   "subclasses": []
                 }
               ],
@@ -1111,7 +1144,7 @@
                 },
                 {
                   "code": "23.15",
-                  "name": "23.15.Z  Produkcja i obróbka pozostałego szkła, włączając",
+                  "name": "23.15.Z  Produkcja i obróbka pozostałego szkła, włączając szkło techniczne",
                   "subclasses": []
                 }
               ],
@@ -1132,7 +1165,7 @@
                 },
                 {
                   "code": "23.32",
-                  "name": "23.32.Z  Produkcja cegieł, dachówek i materiałów",
+                  "name": "23.32.Z  Produkcja cegieł, dachówek i materiałów budowlanych, z wypalanej gliny",
                   "subclasses": []
                 }
               ],
@@ -1143,7 +1176,7 @@
               "classes": [
                 {
                   "code": "23.41",
-                  "name": "23.41.Z  Produkcja ceramicznych wyrobów stołowych i",
+                  "name": "23.41.Z  Produkcja ceramicznych wyrobów stołowych i ozdobnych",
                   "subclasses": []
                 },
                 {
@@ -1153,12 +1186,12 @@
                 },
                 {
                   "code": "23.43",
-                  "name": "23.43.Z  Produkcja ceramicznych izolatorów i osłon",
+                  "name": "23.43.Z  Produkcja ceramicznych izolatorów i osłon izolacyjnych",
                   "subclasses": []
                 },
                 {
                   "code": "23.44",
-                  "name": "23.44.Z  Produkcja pozostałych technicznych wyrobów",
+                  "name": "23.44.Z  Produkcja pozostałych technicznych wyrobów ceramicznych",
                   "subclasses": []
                 },
                 {
@@ -1168,7 +1201,7 @@
                 }
               ],
               "code": "23.4",
-              "name": "Produkcja pozostałych wyrobów z porcelany i"
+              "name": "Produkcja pozostałych wyrobów z porcelany i ceramiki"
             },
             {
               "classes": [
@@ -1215,7 +1248,7 @@
                 },
                 {
                   "code": "23.66",
-                  "name": "23.66.Z  Produkcja pozostałych wyrobów z betonu, cementu i",
+                  "name": "23.66.Z  Produkcja pozostałych wyrobów z betonu, cementu i gipsu",
                   "subclasses": []
                 }
               ],
@@ -1223,7 +1256,16 @@
               "name": "Produkcja wyrobów z betonu, cementu i gipsu"
             },
             {
-              "classes": [],
+              "classes": [
+                {
+                  "code": "23.70.A",
+                  "name": "23.70.A  Produkcja nagrobków, grobowców i płyt nagrobnych z kamienia"
+                },
+                {
+                  "code": "23.70.B",
+                  "name": "23.70.B  Produkcja pozostałych wyrobów z kamienia oraz cięcie, formowanie i wykończanie kamienia"
+                }
+              ],
               "code": "23.7",
               "name": "23.70  Cięcie, formowanie i wykończanie kamienia"
             },
@@ -1236,15 +1278,15 @@
                 },
                 {
                   "code": "23.99",
-                  "name": "23.99.Z  Produkcja pozostałych wyrobów z mineralnych",
+                  "name": "23.99.Z  Produkcja pozostałych wyrobów z mineralnych surowców niemetalicznych, gdzie indziej niesklasyfikowana",
                   "subclasses": []
                 }
               ],
               "code": "23.9",
-              "name": "Produkcja wyrobów ściernych i wyrobów z"
+              "name": "Produkcja wyrobów ściernych i wyrobów z mineralnych surowców niemetalicznych, gdzie indziej niesklasyfikowana"
             }
           ],
-          "name": "Produkcja wyrobów z pozostałych mineralnych"
+          "name": "Produkcja wyrobów z pozostałych mineralnych surowców niemetalicznych"
         },
         {
           "code": "24",
@@ -1252,12 +1294,12 @@
             {
               "classes": [],
               "code": "24.1",
-              "name": "24.10  24.10.Z  Produkcja surówki, żelazostopów, żeliwa i stali oraz"
+              "name": "24.10  24.10.Z  Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych"
             },
             {
               "classes": [],
               "code": "24.2",
-              "name": "24.20  24.20.Z  Produkcja rur, przewodów, kształtowników"
+              "name": "24.20  24.20.Z  Produkcja rur, przewodów, kształtowników zamkniętych i łączników, ze stali"
             },
             {
               "classes": [
@@ -1283,7 +1325,7 @@
                 }
               ],
               "code": "24.3",
-              "name": "Produkcja pozostałych wyrobów ze stali poddanej"
+              "name": "Produkcja pozostałych wyrobów ze stali poddanej wstępnej obróbce"
             },
             {
               "classes": [
@@ -1295,7 +1337,16 @@
                 {
                   "code": "24.42",
                   "name": "Produkcja aluminium",
-                  "subclasses": []
+                  "subclasses": [
+                    {
+                      "code": "24.42.A",
+                      "name": " 24.42.A  Produkcja aluminium hutniczego"
+                    },
+                    {
+                      "code": "24.42.B",
+                      "name": "24.42.B  Produkcja wyrobów z aluminium i stopów aluminium"
+                    }
+                  ]
                 },
                 {
                   "code": "24.43",
@@ -1319,7 +1370,7 @@
                 }
               ],
               "code": "24.4",
-              "name": "Produkcja metali szlachetnych i innych metali"
+              "name": "Produkcja metali szlachetnych i innych metali nieżelaznych"
             },
             {
               "classes": [
@@ -1341,7 +1392,16 @@
                 {
                   "code": "24.54",
                   "name": "Odlewnictwo pozostałych metali nieżelaznych",
-                  "subclasses": []
+                  "subclasses": [
+                    {
+                      "code": "24.54.A",
+                      "name": "24.54.A  Odlewnictwo miedzi i stopów miedzi"
+                    },
+                    {
+                      "code": "24.54.B",
+                      "name": "24.54.B  Odlewnictwo pozostałych metali nieżelaznych, gdzie indziej niesklasyfikowane"
+                    }
+                  ]
                 }
               ],
               "code": "24.5",
@@ -1373,17 +1433,17 @@
               "classes": [
                 {
                   "code": "25.21",
-                  "name": "25.21.Z  Produkcja grzejników centralnego ogrzewania,",
+                  "name": "25.21.Z  Produkcja grzejników centralnego ogrzewania, wytwornic pary i kotłów",
                   "subclasses": []
                 },
                 {
                   "code": "25.22",
-                  "name": "25.22.Z  Produkcja pozostałych zbiorników, cystern i",
+                  "name": "25.22.Z  Produkcja pozostałych zbiorników, cystern i pojemników metalowych",
                   "subclasses": []
                 }
               ],
               "code": "25.2",
-              "name": "Produkcja zbiorników, cystern i pojemników"
+              "name": "Produkcja zbiorników, cystern i pojemników metalowych"
             },
             {
               "classes": [],
@@ -1414,7 +1474,7 @@
                 }
               ],
               "code": "25.5",
-              "name": "Obróbka metali i nakładanie powłok na metale;"
+              "name": "Obróbka metali i nakładanie powłok na metale; obróbka mechaniczna elementów metalowych"
             },
             {
               "classes": [
@@ -1435,7 +1495,7 @@
                 }
               ],
               "code": "25.6",
-              "name": "Produkcja wyrobów nożowniczych, sztućców,"
+              "name": "Produkcja wyrobów nożowniczych, sztućców, narzędzi i wyrobów metalowych ogólnego przeznaczenia"
             },
             {
               "classes": [
@@ -1461,15 +1521,15 @@
                 },
                 {
                   "code": "25.99",
-                  "name": "25.99.Z  Produkcja pozostałych gotowych wyrobów",
+                  "name": "25.99.Z  Produkcja pozostałych gotowych wyrobów metalowych, gdzie indziej niesklasyfikowana",
                   "subclasses": []
                 }
               ],
               "code": "25.9",
-              "name": "Produkcja pozostałych gotowych wyrobów"
+              "name": "Produkcja pozostałych gotowych wyrobów metalowych"
             }
           ],
-          "name": "Produkcja metalowych wyrobów gotowych, z"
+          "name": "Produkcja metalowych wyrobów gotowych, z wyłączeniem maszyn i urządzeń"
         },
         {
           "code": "26",
@@ -1488,7 +1548,7 @@
                 }
               ],
               "code": "26.1",
-              "name": "Produkcja elektronicznych elementów i obwodów"
+              "name": "Produkcja elektronicznych elementów i obwodów drukowanych"
             },
             {
               "classes": [],
@@ -1503,13 +1563,13 @@
             {
               "classes": [],
               "code": "26.4",
-              "name": "26.40  26.40.Z  Produkcja elektronicznego sprzętu powszechnego"
+              "name": "26.40  26.40.Z  Produkcja elektronicznego sprzętu powszechnego użytku"
             },
             {
               "classes": [
                 {
                   "code": "26.51",
-                  "name": "26.51.Z  Produkcja instrumentów i przyrządów pomiarowych,",
+                  "name": "26.51.Z  Produkcja instrumentów i przyrządów pomiarowych, kontrolnych i nawigacyjnych",
                   "subclasses": []
                 },
                 {
@@ -1519,20 +1579,20 @@
                 }
               ],
               "code": "26.5",
-              "name": "Produkcja instrumentów i przyrządów pomiarowych,"
+              "name": "Produkcja instrumentów i przyrządów pomiarowych, kontrolnych, zegarów i zegarków"
             },
             {
               "classes": [],
               "code": "26.6",
-              "name": "26.60  26.60.Z  Produkcja urządzeń napromieniowujących, sprzętu"
+              "name": "26.60  26.60.Z  Produkcja urządzeń napromieniowujących, sprzętu elektromedycznego i elektroterapeutycznego"
             },
             {
               "classes": [],
               "code": "26.7",
-              "name": "26.70  26.70.Z  Produkcja instrumentów optycznych, niezapisanych"
+              "name": "26.70  26.70.Z  Produkcja instrumentów optycznych, niezapisanych magnetycznych i optycznych nośników informacji oraz sprzętu fotograficznego"
             }
           ],
-          "name": "Produkcja komputerów, wyrobów elektronicznych i"
+          "name": "Produkcja komputerów, wyrobów elektronicznych i optycznych"
         },
         {
           "code": "27",
@@ -1541,17 +1601,17 @@
               "classes": [
                 {
                   "code": "27.11",
-                  "name": "27.11.Z  Produkcja elektrycznych silników, prądnic i",
+                  "name": "27.11.Z  Produkcja elektrycznych silników, prądnic i transformatorów",
                   "subclasses": []
                 },
                 {
                   "code": "27.12",
-                  "name": "27.12.Z  Produkcja aparatury rozdzielczej i sterowniczej",
+                  "name": "27.12.Z  Produkcja aparatury rozdzielczej i sterowniczej energii elektrycznej",
                   "subclasses": []
                 }
               ],
               "code": "27.1",
-              "name": "Produkcja elektrycznych silników, prądnic,"
+              "name": "Produkcja elektrycznych silników, prądnic, transformatorów, aparatury rozdzielczej i sterowniczej energii elektrycznej"
             },
             {
               "classes": [],
@@ -1567,7 +1627,7 @@
                 },
                 {
                   "code": "27.32",
-                  "name": "27.32.Z  Produkcja pozostałych elektronicznych i",
+                  "name": "27.32.Z  Produkcja pozostałych elektronicznych i elektrycznych przewodów i kabli",
                   "subclasses": []
                 },
                 {
@@ -1577,7 +1637,7 @@
                 }
               ],
               "code": "27.3",
-              "name": "Produkcja izolowanych przewodów i kabli oraz"
+              "name": "Produkcja izolowanych przewodów i kabli oraz sprzętu instalacyjnego"
             },
             {
               "classes": [],
@@ -1588,12 +1648,12 @@
               "classes": [
                 {
                   "code": "27.51",
-                  "name": "27.51.Z  Produkcja elektrycznego sprzętu gospodarstwa",
+                  "name": "27.51.Z  Produkcja elektrycznego sprzętu gospodarstwa domowego",
                   "subclasses": []
                 },
                 {
                   "code": "27.52",
-                  "name": "27.52.Z  Produkcja nieelektrycznego sprzętu gospodarstwa",
+                  "name": "27.52.Z  Produkcja nieelektrycznego sprzętu gospodarstwa domowego",
                   "subclasses": []
                 }
               ],
@@ -1615,12 +1675,12 @@
               "classes": [
                 {
                   "code": "28.11",
-                  "name": "28.11.Z  Produkcja silników i turbin, z wyłączeniem silników",
+                  "name": "28.11.Z  Produkcja silników i turbin, z wyłączeniem silników lotniczych, samochodowych i motocyklowych",
                   "subclasses": []
                 },
                 {
                   "code": "28.12",
-                  "name": "28.12.Z  Produkcja sprzętu i wyposażenia do napędu",
+                  "name": "28.12.Z  Produkcja sprzętu i wyposażenia do napędu hydraulicznego i pneumatycznego",
                   "subclasses": []
                 },
                 {
@@ -1635,7 +1695,7 @@
                 },
                 {
                   "code": "28.15",
-                  "name": "28.15.Z  Produkcja łożysk, kół zębatych, przekładni zębatych",
+                  "name": "28.15.Z  Produkcja łożysk, kół zębatych, przekładni zębatych i elementów napędowych",
                   "subclasses": []
                 }
               ],
@@ -1646,17 +1706,17 @@
               "classes": [
                 {
                   "code": "28.21",
-                  "name": "28.21.Z  Produkcja pieców, palenisk i stałych urządzeń",
+                  "name": "28.21.Z  Produkcja pieców, palenisk i stałych urządzeń grzewczych dla gospodarstw domowych",
                   "subclasses": []
                 },
                 {
                   "code": "28.22",
-                  "name": "28.22.Z  Produkcja urządzeń podnośnikowych i",
+                  "name": "28.22.Z  Produkcja urządzeń podnośnikowych i przeładunkowych",
                   "subclasses": []
                 },
                 {
                   "code": "28.23",
-                  "name": "28.23.Z  Produkcja maszyn i sprzętu biurowego, z",
+                  "name": "28.23.Z  Produkcja maszyn i sprzętu biurowego, z wyłączeniem komputerów i urządzeń peryferyjnych",
                   "subclasses": []
                 },
                 {
@@ -1666,17 +1726,17 @@
                 },
                 {
                   "code": "28.25",
-                  "name": "28.25.Z  Produkcja przemysłowych urządzeń chłodniczych,",
+                  "name": "28.25.Z  Produkcja przemysłowych urządzeń chłodniczych, wentylacyjnych i klimatyzacyjnych",
                   "subclasses": []
                 },
                 {
                   "code": "28.29",
-                  "name": "28.29.Z  Produkcja pozostałych maszyn ogólnego",
+                  "name": "28.29.Z  Produkcja pozostałych maszyn ogólnego przeznaczenia, gdzie indziej niesklasyfikowana",
                   "subclasses": []
                 }
               ],
               "code": "28.2",
-              "name": "Produkcja pozostałych maszyn ogólnego"
+              "name": "Produkcja pozostałych maszyn ogólnego przeznaczenia"
             },
             {
               "classes": [],
@@ -1687,7 +1747,7 @@
               "classes": [
                 {
                   "code": "28.41",
-                  "name": "28.41.Z  Produkcja maszyn do formowania metalu i",
+                  "name": "28.41.Z  Produkcja maszyn do formowania metalu i obrabiarek do metalu",
                   "subclasses": []
                 },
                 {
@@ -1697,7 +1757,7 @@
                 }
               ],
               "code": "28.4",
-              "name": "Produkcja maszyn do formowania metalu i narzędzi"
+              "name": "Produkcja maszyn do formowania metalu i narzędzi mechanicznych"
             },
             {
               "classes": [
@@ -1708,17 +1768,17 @@
                 },
                 {
                   "code": "28.92",
-                  "name": "28.92.Z  Produkcja maszyn dla górnictwa i do wydobywania",
+                  "name": "28.92.Z  Produkcja maszyn dla górnictwa i do wydobywania oraz budownictwa",
                   "subclasses": []
                 },
                 {
                   "code": "28.93",
-                  "name": "28.93.Z  Produkcja maszyn stosowanych w przetwórstwie",
+                  "name": "28.93.Z  Produkcja maszyn stosowanych w przetwórstwie żywności, tytoniu i produkcji napojów",
                   "subclasses": []
                 },
                 {
                   "code": "28.94",
-                  "name": "28.94.Z  Produkcja maszyn dla przemysłu tekstylnego,",
+                  "name": "28.94.Z  Produkcja maszyn dla przemysłu tekstylnego, odzieżowego i skórzanego",
                   "subclasses": []
                 },
                 {
@@ -1728,7 +1788,7 @@
                 },
                 {
                   "code": "28.96",
-                  "name": "28.96.Z  Produkcja maszyn do obróbki gumy lub tworzyw",
+                  "name": "28.96.Z  Produkcja maszyn do obróbki gumy lub tworzyw sztucznych",
                   "subclasses": []
                 },
                 {
@@ -1738,47 +1798,68 @@
                 },
                 {
                   "code": "28.99",
-                  "name": "28.99.Z  Produkcja pozostałych maszyn specjalnego",
+                  "name": "28.99.Z  Produkcja pozostałych maszyn specjalnego przeznaczenia, gdzie indziej niesklasyfikowana",
                   "subclasses": []
                 }
               ],
               "code": "28.9",
-              "name": "Produkcja pozostałych maszyn specjalnego"
+              "name": "Produkcja pozostałych maszyn specjalnego przeznaczenia"
             }
           ],
-          "name": "Produkcja maszyn i urządzeń, gdzie indziej"
+          "name": "Produkcja maszyn i urządzeń, gdzie indziej niesklasyfikowana"
         },
         {
           "code": "29",
           "groups": [
             {
-              "classes": [],
+              "classes": [
+                {
+                  "code": "29.10.A",
+                  "name": "29.10.A  Produkcja silników do pojazdów silnikowych, z wyłączeniem motocykli"
+                },
+                {
+                  "code": "29.10.B",
+                  "name": "29.10.B  Produkcja samochodów osobowych"
+                },
+                {
+                  "code": "29.10.C",
+                  "name": "29.10.C  Produkcja autobusów"
+                },
+                {
+                  "code": "29.10.D",
+                  "name": "29.10.D  Produkcja pojazdów silnikowych przeznaczonych do przewozu towarów"
+                },
+                {
+                  "code": "29.10.E",
+                  "name": "29.10.E  Produkcja pozostałych pojazdów silnikowych, z wyłączeniem motocykli"
+                }
+              ],
               "code": "29.1",
-              "name": "29.10  Produkcja pojazdów silnikowych, z wyłączeniem"
+              "name": "29.10  Produkcja pojazdów silnikowych, z wyłączeniem motocykli"
             },
             {
               "classes": [],
               "code": "29.2",
-              "name": "29.20  29.20.Z  Produkcja nadwozi do pojazdów silnikowych, z"
+              "name": "29.20  29.20.Z  Produkcja nadwozi do pojazdów silnikowych, z wyłączeniem motocykli; produkcja przyczep i naczep"
             },
             {
               "classes": [
                 {
                   "code": "29.31",
-                  "name": "29.31.Z  Produkcja wyposażenia elektrycznego i",
+                  "name": "29.31.Z  Produkcja wyposażenia elektrycznego i elektronicznego do pojazdów silnikowych",
                   "subclasses": []
                 },
                 {
                   "code": "29.32",
-                  "name": "29.32.Z  Produkcja pozostałych części i akcesoriów do",
+                  "name": "29.32.Z  Produkcja pozostałych części i akcesoriów do pojazdów silnikowych, z wyłączeniem motocykli",
                   "subclasses": []
                 }
               ],
               "code": "29.3",
-              "name": "Produkcja części i akcesoriów do pojazdów"
+              "name": "Produkcja części i akcesoriów do pojazdów silnikowych"
             }
           ],
-          "name": "Produkcja pojazdów silnikowych, produkcja"
+          "name": "Produkcja pojazdów silnikowych, produkcja przyczep i naczep"
         },
         {
           "code": "30",
@@ -1787,7 +1868,7 @@
               "classes": [
                 {
                   "code": "30.11",
-                  "name": "30.11.Z  Produkcja cywilnych statków i konstrukcji",
+                  "name": "30.11.Z  Produkcja cywilnych statków i konstrukcji pływających",
                   "subclasses": []
                 },
                 {
@@ -1797,7 +1878,7 @@
                 },
                 {
                   "code": "30.13",
-                  "name": "30.13.Z  Produkcja wojskowych okrętów i jednostek",
+                  "name": "30.13.Z  Produkcja wojskowych okrętów i jednostek pływających",
                   "subclasses": []
                 }
               ],
@@ -1807,23 +1888,23 @@
             {
               "classes": [],
               "code": "30.2",
-              "name": "30.20  30.20.Z  Produkcja lokomotyw kolejowych oraz taboru"
+              "name": "30.20  30.20.Z  Produkcja lokomotyw kolejowych oraz taboru szynowego"
             },
             {
               "classes": [
                 {
                   "code": "30.31",
-                  "name": "30.31.Z  Produkcja cywilnych statków powietrznych, statków",
+                  "name": "30.31.Z  Produkcja cywilnych statków powietrznych, statków kosmicznych i podobnych maszyn",
                   "subclasses": []
                 },
                 {
                   "code": "30.32",
-                  "name": "30.32.Z  Produkcja wojskowych statków powietrznych,",
+                  "name": "30.32.Z  Produkcja wojskowych statków powietrznych, statków kosmicznych i podobnych maszyn",
                   "subclasses": []
                 }
               ],
               "code": "30.3",
-              "name": "Produkcja statków powietrznych, statków"
+              "name": "Produkcja statków powietrznych, statków kosmicznych i podobnych maszyn"
             },
             {
               "classes": [],
@@ -1844,12 +1925,12 @@
                 },
                 {
                   "code": "30.99",
-                  "name": "30.99.Z  Produkcja pozostałego sprzętu transportowego, gdzie",
+                  "name": "30.99.Z  Produkcja pozostałego sprzętu transportowego, gdzie indziej niesklasyfikowana",
                   "subclasses": []
                 }
               ],
               "code": "30.9",
-              "name": "Produkcja sprzętu transportowego, gdzie indziej"
+              "name": "Produkcja sprzętu transportowego, gdzie indziej niesklasyfikowana"
             }
           ],
           "name": "Produkcja pozostałego sprzętu transportowego"
@@ -1881,7 +1962,7 @@
                 }
               ],
               "code": "32.1",
-              "name": "Produkcja wyrobów jubilerskich, biżuterii i"
+              "name": "Produkcja wyrobów jubilerskich, biżuterii i podobnych wyrobów"
             },
             {
               "classes": [],
@@ -1899,9 +1980,18 @@
               "name": "32.40  32.40.Z  Produkcja gier i zabawek"
             },
             {
-              "classes": [],
+              "classes": [
+                {
+                  "code": "32.50.A",
+                  "name": "32.50.A  Produkcja urządzeń, instrumentów oraz wyrobów dentystycznych"
+                },
+                {
+                  "code": "32.50.B",
+                  "name": "32.50.B  Pozostała produkcja urządzeń, instrumentów oraz wyrobów medycznych"
+                }
+              ],
               "code": "32.5",
-              "name": "32.50  Produkcja urządzeń, instrumentów oraz wyrobów"
+              "name": "32.50  Produkcja urządzeń, instrumentów oraz wyrobów medycznych, włączając dentystyczne"
             },
             {
               "classes": [
@@ -1912,7 +2002,7 @@
                 },
                 {
                   "code": "32.99",
-                  "name": "32.99.Z  Produkcja pozostałych wyrobów, gdzie indziej",
+                  "name": "32.99.Z  Produkcja pozostałych wyrobów, gdzie indziej niesklasyfikowana",
                   "subclasses": []
                 }
               ],
@@ -1929,7 +2019,7 @@
               "classes": [
                 {
                   "code": "33.11",
-                  "name": "33.11.Z  Naprawa i konserwacja metalowych wyrobów",
+                  "name": "33.11.Z  Naprawa i konserwacja metalowych wyrobów gotowych",
                   "subclasses": []
                 },
                 {
@@ -1939,7 +2029,7 @@
                 },
                 {
                   "code": "33.13",
-                  "name": "33.13.Z  Naprawa i konserwacja urządzeń elektronicznych i",
+                  "name": "33.13.Z  Naprawa i konserwacja urządzeń elektronicznych i optycznych",
                   "subclasses": []
                 },
                 {
@@ -1954,38 +2044,38 @@
                 },
                 {
                   "code": "33.16",
-                  "name": "33.16.Z  Naprawa i konserwacja cywilnych statków",
+                  "name": "33.16.Z  Naprawa i konserwacja cywilnych statków powietrznych i statków kosmicznych",
                   "subclasses": []
                 },
                 {
                   "code": "33.17",
-                  "name": "33.17.Z  Naprawa i konserwacja pozostałego cywilnego",
+                  "name": "33.17.Z  Naprawa i konserwacja pozostałego cywilnego sprzętu transportowego",
                   "subclasses": []
                 },
                 {
                   "code": "33.18",
-                  "name": "33.18.Z  Naprawa i konserwacja wojskowych pojazdów",
+                  "name": "33.18.Z  Naprawa i konserwacja wojskowych pojazdów bojowych, okrętów, łodzi, statków powietrznych i statków kosmicznych",
                   "subclasses": []
                 },
                 {
                   "code": "33.19",
-                  "name": "33.19.Z  Naprawa i konserwacja pozostałego sprzętu i",
+                  "name": "33.19.Z  Naprawa i konserwacja pozostałego sprzętu i wyposażenia",
                   "subclasses": []
                 }
               ],
               "code": "33.1",
-              "name": "Naprawa i konserwacja metalowych wyrobów"
+              "name": "Naprawa i konserwacja metalowych wyrobów gotowych, maszyn i urządzeń"
             },
             {
               "classes": [],
               "code": "33.2",
-              "name": "33.20  33.20.Z  Instalowanie maszyn przemysłowych, sprzętu i"
+              "name": "33.20  33.20.Z  Instalowanie maszyn przemysłowych, sprzętu i wyposażenia"
             }
           ],
-          "name": "Naprawa, konserwacja i instalowanie maszyn i"
+          "name": "Naprawa, konserwacja i instalowanie maszyn i urządzeń"
         }
       ],
-      "name": "PRZETWÓRSTWO PRZEMYSŁOWE"
+      "name": " PRZETWÓRSTWO PRZEMYSŁOWE"
     },
     {
       "code": "D",
@@ -1997,13 +2087,38 @@
               "classes": [
                 {
                   "code": "35.11",
-                  "name": "35.11.Z  Wytwarzanie energii elektrycznej ze źródeł",
+                  "name": "35.11.Z  Wytwarzanie energii elektrycznej ze źródeł nieodnawialnych",
                   "subclasses": []
                 },
                 {
                   "code": "35.12",
-                  "name": "Wytwarzanie energii elektrycznej ze źródeł",
-                  "subclasses": []
+                  "name": "Wytwarzanie energii elektrycznej ze źródeł odnawialnych",
+                  "subclasses": [
+                    {
+                      "code": "35.12.A",
+                      "name": "35.12.A  Energetyka wiatrowa"
+                    },
+                    {
+                      "code": "35.12.B",
+                      "name": "Energetyka słoneczna"
+                    },
+                    {
+                      "code": "35.12.C",
+                      "name": "35.12.C  Energetyka geotermalna"
+                    },
+                    {
+                      "code": "35.12.D",
+                      "name": "35.12.D  Energetyka biogazowa"
+                    },
+                    {
+                      "code": "35.12.E",
+                      "name": "35.12.E  Energetyka wodna"
+                    },
+                    {
+                      "code": "35.12.F",
+                      "name": "35.12.F  Wytwarzanie energii elektrycznej z pozostałych źródeł odnawialnych"
+                    }
+                  ]
                 },
                 {
                   "code": "35.13",
@@ -2027,7 +2142,7 @@
                 }
               ],
               "code": "35.1",
-              "name": "Wytwarzanie, przesyłanie, dystrybucja energii"
+              "name": "Wytwarzanie, przesyłanie, dystrybucja energii elektrycznej, handel energią elektryczną"
             },
             {
               "classes": [
@@ -2048,28 +2163,28 @@
                 },
                 {
                   "code": "35.24",
-                  "name": "35.24.Z  Magazynowanie paliw gazowych w ramach usług",
+                  "name": "35.24.Z  Magazynowanie paliw gazowych w ramach usług zaopatrzenia sieciowego",
                   "subclasses": []
                 }
               ],
               "code": "35.2",
-              "name": "Wytwarzanie paliw gazowych oraz dystrybucja i"
+              "name": "Wytwarzanie paliw gazowych oraz dystrybucja i handel paliwami gazowymi w systemie sieciowym"
             },
             {
               "classes": [],
               "code": "35.3",
-              "name": "35.30  35.30.Z  Wytwarzanie i zaopatrywanie w parę wodną i"
+              "name": "35.30  35.30.Z  Wytwarzanie i zaopatrywanie w parę wodną i powietrze do układów klimatyzacyjnych"
             },
             {
               "classes": [],
               "code": "35.4",
-              "name": "35.40  35.40.Z  Działalność brokerów i agentów w zakresie energii"
+              "name": "35.40  35.40.Z  Działalność brokerów i agentów w zakresie energii elektrycznej i gazu ziemnego"
             }
           ],
-          "name": "Wytwarzanie i zaopatrywanie w energię elektryczną,"
+          "name": "Wytwarzanie i zaopatrywanie w energię elektryczną, gaz, parę wodną i powietrze do układów klimatyzacyjnych"
         }
       ],
-      "name": "WYTWARZANIE I ZAOPATRYWANIE W ENERGIĘ ELEKTRYCZNĄ, GAZ, PARĘ WODNĄ I POWIETRZE DO UKŁADÓW KLIMATYZACYJNYCH"
+      "name": " WYTWARZANIE I ZAOPATRYWANIE W ENERGIĘ ELEKTRYCZNĄ, GAZ, PARĘ WODNĄ I POWIETRZE DO UKŁADÓW KLIMATYZACYJNYCH"
     },
     {
       "code": "E",
@@ -2146,12 +2261,12 @@
               "name": "Unieszkodliwianie odpadów bez odzysku"
             }
           ],
-          "name": "Działalność związana ze zbieraniem, odzyskiem i"
+          "name": "Działalność związana ze zbieraniem, odzyskiem i unieszkodliwianiem odpadów"
         },
         {
           "code": "39",
           "groups": [],
-          "name": "39.0  39.00  39.00.Z  Działalność związana z rekultywacją i pozostała"
+          "name": "39.0  39.00  39.00.Z  Działalność związana z rekultywacją i pozostała działalność usługowa związana z gospodarką odpadami"
         }
       ],
       "name": " DOSTAWA WODY; GOSPODAROWANIE ŚCIEKAMI I ODPADAMI ORAZ DZIAŁALNOŚĆ ZWIĄZANA Z REKULTYWACJĄ"
@@ -2161,8 +2276,21 @@
       "departments": [
         {
           "code": "41",
-          "groups": [],
-          "name": "41.0  41.00  Roboty budowlane związane ze wznoszeniem"
+          "groups": [
+            {
+              "classes": [
+                {
+                  "code": "41.00.A",
+                  "name": "41.00.A  Roboty budowlane związane ze wznoszeniem budynków mieszkalnych"
+                },
+                {
+                  "code": "41.00.B",
+                  "name": "41.00.B  Roboty budowlane związane ze wznoszeniem budynków niemieszkalnych"
+                }
+              ]
+            }
+          ],
+          "name": "41.0  41.00  Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych"
         },
         {
           "code": "42",
@@ -2176,7 +2304,7 @@
                 },
                 {
                   "code": "42.12",
-                  "name": "42.12.Z  Roboty związane z budową dróg szynowych i kolei",
+                  "name": "42.12.Z  Roboty związane z budową dróg szynowych i kolei podziemnej",
                   "subclasses": []
                 },
                 {
@@ -2186,42 +2314,42 @@
                 }
               ],
               "code": "42.1",
-              "name": "Roboty związane z budową dróg kołowych i"
+              "name": "Roboty związane z budową dróg kołowych i szynowych"
             },
             {
               "classes": [
                 {
                   "code": "42.21",
-                  "name": "42.21.Z  Roboty związane z budową rurociągów",
+                  "name": "42.21.Z  Roboty związane z budową rurociągów przesyłowych i sieci rozdzielczych",
                   "subclasses": []
                 },
                 {
                   "code": "42.22",
-                  "name": "42.22.Z  Roboty związane z budową linii",
+                  "name": "42.22.Z  Roboty związane z budową linii telekomunikacyjnych i elektroenergetycznych",
                   "subclasses": []
                 }
               ],
               "code": "42.2",
-              "name": "Roboty związane z budową rurociągów, linii"
+              "name": "Roboty związane z budową rurociągów, linii telekomunikacyjnych i elektroenergetycznych"
             },
             {
               "classes": [
                 {
                   "code": "42.91",
-                  "name": "42.91.Z  Roboty związane z budową obiektów inżynierii",
+                  "name": "42.91.Z  Roboty związane z budową obiektów inżynierii wodnej",
                   "subclasses": []
                 },
                 {
                   "code": "42.99",
-                  "name": "42.99.Z  Roboty związane z budową pozostałych obiektów",
+                  "name": "42.99.Z  Roboty związane z budową pozostałych obiektów inżynierii lądowej i wodnej, gdzie indziej niesklasyfikowane",
                   "subclasses": []
                 }
               ],
               "code": "42.9",
-              "name": "Roboty związane z budową pozostałych obiektów"
+              "name": "Roboty związane z budową pozostałych obiektów inżynierii lądowej i wodnej"
             }
           ],
-          "name": "Roboty związane z budową obiektów inżynierii"
+          "name": "Roboty związane z budową obiektów inżynierii lądowej i wodnej"
         },
         {
           "code": "43",
@@ -2240,7 +2368,7 @@
                 },
                 {
                   "code": "43.13",
-                  "name": "43.13.Z  Wykonywanie wykopów i wierceń geologiczno-",
+                  "name": "43.13.Z  Wykonywanie wykopów i wierceń geologiczno- inżynierskich",
                   "subclasses": []
                 }
               ],
@@ -2256,7 +2384,7 @@
                 },
                 {
                   "code": "43.22",
-                  "name": "43.22.Z  Wykonywanie instalacji wodno-kanalizacyjnych,",
+                  "name": "43.22.Z  Wykonywanie instalacji wodno-kanalizacyjnych, cieplnych i klimatyzacyjnych",
                   "subclasses": []
                 },
                 {
@@ -2271,7 +2399,7 @@
                 }
               ],
               "code": "43.2",
-              "name": "Wykonywanie instalacji elektrycznych, wodno-"
+              "name": "Wykonywanie instalacji elektrycznych, wodno- kanalizacyjnych i pozostałych instalacji budowlanych"
             },
             {
               "classes": [
@@ -2297,12 +2425,12 @@
                 },
                 {
                   "code": "43.35",
-                  "name": "43.35.Z  Wykonywanie pozostałych robót budowlanych",
+                  "name": "43.35.Z  Wykonywanie pozostałych robót budowlanych wykończeniowych",
                   "subclasses": []
                 }
               ],
               "code": "43.3",
-              "name": "Wykonywanie robót budowlanych"
+              "name": "Wykonywanie robót budowlanych wykończeniowych"
             },
             {
               "classes": [
@@ -2313,22 +2441,22 @@
                 },
                 {
                   "code": "43.42",
-                  "name": "43.42.Z  Wykonywanie pozostałych specjalistycznych robót",
+                  "name": "43.42.Z  Wykonywanie pozostałych specjalistycznych robót budowlanych w zakresie budowy budynków",
                   "subclasses": []
                 }
               ],
               "code": "43.4",
-              "name": "Wykonywanie specjalistycznych robót budowlanych"
+              "name": "Wykonywanie specjalistycznych robót budowlanych w zakresie budowy budynków"
             },
             {
               "classes": [],
               "code": "43.5",
-              "name": "43.50  43.50.Z  Roboty budowlane specjalistyczne w zakresie"
+              "name": "43.50  43.50.Z  Roboty budowlane specjalistyczne w zakresie inżynierii lądowej i wodnej"
             },
             {
               "classes": [],
               "code": "43.6",
-              "name": "43.60  43.60.Z  Pośrednictwo w zakresie specjalistycznych usług"
+              "name": "43.60  43.60.Z  Pośrednictwo w zakresie specjalistycznych usług budowlanych"
             },
             {
               "classes": [
@@ -2339,7 +2467,7 @@
                 },
                 {
                   "code": "43.99",
-                  "name": "43.99.Z  Pozostałe specjalistyczne roboty budowlane, gdzie",
+                  "name": "43.99.Z  Pozostałe specjalistyczne roboty budowlane, gdzie indziej niesklasyfikowane",
                   "subclasses": []
                 }
               ],
@@ -2350,7 +2478,7 @@
           "name": "Roboty budowlane specjalistyczne"
         }
       ],
-      "name": "BUDOWNICTWO"
+      "name": " BUDOWNICTWO"
     },
     {
       "code": "G",
@@ -2362,47 +2490,56 @@
               "classes": [
                 {
                   "code": "46.11",
-                  "name": "Działalność agentów zajmujących się sprzedażą",
-                  "subclasses": []
+                  "name": "Działalność agentów zajmujących się sprzedażą hurtową płodów rolnych, żywych zwierząt, surowców dla przemysłu tekstylnego i półproduktów",
+                  "subclasses": [
+                    {
+                      "code": "46.11.A",
+                      "name": "46.11.A  Działalność agentów zajmujących się sprzedażą hurtową zbóż i nasion oleistych"
+                    },
+                    {
+                      "code": "46.11.B",
+                      "name": "46.11.B  Działalność agentów zajmujących się sprzedażą hurtową pozostałych płodów rolnych, żywych zwierząt, surowców dla przemysłu tekstylnego i półproduktów"
+                    }
+                  ]
                 },
                 {
                   "code": "46.12",
-                  "name": "46.12.Z  Działalność agentów zajmujących się sprzedażą",
+                  "name": "46.12.Z  Działalność agentów zajmujących się sprzedażą hurtową paliw, rud, metali i chemikaliów przemysłowych",
                   "subclasses": []
                 },
                 {
                   "code": "46.13",
-                  "name": "46.13.Z  Działalność agentów zajmujących się sprzedażą",
+                  "name": "46.13.Z  Działalność agentów zajmujących się sprzedażą hurtową drewna i materiałów budowlanych",
                   "subclasses": []
                 },
                 {
                   "code": "46.14",
-                  "name": "46.14.Z  Działalność agentów zajmujących się sprzedażą",
+                  "name": "46.14.Z  Działalność agentów zajmujących się sprzedażą hurtową maszyn, urządzeń przemysłowych, statków i samolotów",
                   "subclasses": []
                 },
                 {
                   "code": "46.15",
-                  "name": "46.15.Z  Działalność agentów zajmujących się sprzedażą",
+                  "name": "46.15.Z  Działalność agentów zajmujących się sprzedażą hurtową mebli, artykułów gospodarstwa domowego i drobnych wyrobów metalowych",
                   "subclasses": []
                 },
                 {
                   "code": "46.16",
-                  "name": "46.16.Z  Działalność agentów zajmujących się sprzedażą",
+                  "name": "46.16.Z  Działalność agentów zajmujących się sprzedażą hurtową wyrobów tekstylnych, odzieży, wyrobów futrzarskich, obuwia i artykułów skórzanych",
                   "subclasses": []
                 },
                 {
                   "code": "46.17",
-                  "name": "46.17.Z  Działalność agentów zajmujących się sprzedażą",
+                  "name": "46.17.Z  Działalność agentów zajmujących się sprzedażą hurtową żywności, napojów i wyrobów tytoniowych",
                   "subclasses": []
                 },
                 {
                   "code": "46.18",
-                  "name": "46.18.Z  Działalność agentów zajmujących się sprzedażą",
+                  "name": "46.18.Z  Działalność agentów zajmujących się sprzedażą hurtową wyspecjalizowaną pozostałych towarów",
                   "subclasses": []
                 },
                 {
                   "code": "46.19",
-                  "name": "46.19.Z  Działalność agentów zajmujących się sprzedażą",
+                  "name": "46.19.Z  Działalność agentów zajmujących się sprzedażą hurtową niewyspecjalizowaną",
                   "subclasses": []
                 }
               ],
@@ -2413,8 +2550,17 @@
               "classes": [
                 {
                   "code": "46.21",
-                  "name": "Sprzedaż hurtowa zboża, nieprzetworzonego tytoniu,",
-                  "subclasses": []
+                  "name": "Sprzedaż hurtowa zboża, nieprzetworzonego tytoniu, nasion i pasz dla zwierząt",
+                  "subclasses": [
+                    {
+                      "code": "46.21.A",
+                      "name": "46.21.A  Sprzedaż hurtowa zboża i nasion roślin oleistych"
+                    },
+                    {
+                      "code": "46.21.B",
+                      "name": "46.21.B Sprzedaż hurtowa nieprzetworzonego tytoniu i pasz dla zwierząt"
+                    }
+                  ]
                 },
                 {
                   "code": "46.22",
@@ -2444,18 +2590,27 @@
                 },
                 {
                   "code": "46.32",
-                  "name": "46.32.Z  Sprzedaż hurtowa mięsa i wyrobów z mięsa oraz ryb",
+                  "name": "46.32.Z  Sprzedaż hurtowa mięsa i wyrobów z mięsa oraz ryb i wyrobów z ryb",
                   "subclasses": []
                 },
                 {
                   "code": "46.33",
-                  "name": "46.33.Z  Sprzedaż hurtowa mleka, wyrobów mleczarskich, jaj,",
+                  "name": "46.33.Z  Sprzedaż hurtowa mleka, wyrobów mleczarskich, jaj, olejów i tłuszczów jadalnych",
                   "subclasses": []
                 },
                 {
                   "code": "46.34",
-                  "name": "Sprzedaż hurtowa napojów alkoholowych i",
-                  "subclasses": []
+                  "name": "Sprzedaż hurtowa napojów alkoholowych i bezalkoholowych",
+                  "subclasses": [
+                    {
+                      "code": "46.34.A",
+                      "name": "46.34.A  Sprzedaż hurtowa napojów alkoholowych"
+                    },
+                    {
+                      "code": "46.34.B",
+                      "name": "46.34.B  Sprzedaż hurtowa napojów bezalkoholowych"
+                    }
+                  ]
                 },
                 {
                   "code": "46.35",
@@ -2464,7 +2619,7 @@
                 },
                 {
                   "code": "46.36",
-                  "name": "46.36.Z  Sprzedaż hurtowa cukru, czekolady i wyrobów",
+                  "name": "46.36.Z  Sprzedaż hurtowa cukru, czekolady i wyrobów cukierniczych",
                   "subclasses": []
                 },
                 {
@@ -2479,12 +2634,12 @@
                 },
                 {
                   "code": "46.39",
-                  "name": "46.39.Z  Sprzedaż hurtowa niewyspecjalizowana żywności,",
+                  "name": "46.39.Z  Sprzedaż hurtowa niewyspecjalizowana żywności, napojów i wyrobów tytoniowych",
                   "subclasses": []
                 }
               ],
               "code": "46.3",
-              "name": "Sprzedaż hurtowa żywności, napojów i wyrobów"
+              "name": "Sprzedaż hurtowa żywności, napojów i wyrobów tytoniowych"
             },
             {
               "classes": [
@@ -2500,12 +2655,12 @@
                 },
                 {
                   "code": "46.43",
-                  "name": "46.43.Z  Sprzedaż hurtowa elektrycznych artykułów użytku",
+                  "name": "46.43.Z  Sprzedaż hurtowa elektrycznych artykułów użytku domowego",
                   "subclasses": []
                 },
                 {
                   "code": "46.44",
-                  "name": "46.44.Z  Sprzedaż hurtowa wyrobów porcelanowych,",
+                  "name": "46.44.Z  Sprzedaż hurtowa wyrobów porcelanowych, ceramicznych i szklanych oraz środków czyszczących",
                   "subclasses": []
                 },
                 {
@@ -2515,12 +2670,12 @@
                 },
                 {
                   "code": "46.46",
-                  "name": "46.46.Z  Sprzedaż hurtowa wyrobów farmaceutycznych i",
+                  "name": "46.46.Z  Sprzedaż hurtowa wyrobów farmaceutycznych i medycznych",
                   "subclasses": []
                 },
                 {
                   "code": "46.47",
-                  "name": "46.47.Z  Sprzedaż hurtowa mebli do użytku domowego,",
+                  "name": "46.47.Z  Sprzedaż hurtowa mebli do użytku domowego, biurowego i sklepowego, dywanów i sprzętu oświetleniowego",
                   "subclasses": []
                 },
                 {
@@ -2530,7 +2685,7 @@
                 },
                 {
                   "code": "46.49",
-                  "name": "46.49.Z  Sprzedaż hurtowa pozostałych artykułów użytku",
+                  "name": "46.49.Z  Sprzedaż hurtowa pozostałych artykułów użytku domowego",
                   "subclasses": []
                 }
               ],
@@ -2540,13 +2695,13 @@
             {
               "classes": [],
               "code": "46.5",
-              "name": "46.50  46.50.Z  Sprzedaż hurtowa urządzeń technologii"
+              "name": "46.50  46.50.Z  Sprzedaż hurtowa urządzeń technologii informacyjnej i komunikacyjnej"
             },
             {
               "classes": [
                 {
                   "code": "46.61",
-                  "name": "46.61.Z  Sprzedaż hurtowa maszyn i urządzeń rolniczych oraz",
+                  "name": "46.61.Z  Sprzedaż hurtowa maszyn i urządzeń rolniczych oraz dodatkowego wyposażenia",
                   "subclasses": []
                 },
                 {
@@ -2556,7 +2711,7 @@
                 },
                 {
                   "code": "46.63",
-                  "name": "46.63.Z  Sprzedaż hurtowa maszyn wykorzystywanych w",
+                  "name": "46.63.Z  Sprzedaż hurtowa maszyn wykorzystywanych w górnictwie, budownictwie oraz inżynierii lądowej i wodnej",
                   "subclasses": []
                 },
                 {
@@ -2566,34 +2721,34 @@
                 }
               ],
               "code": "46.6",
-              "name": "Sprzedaż hurtowa pozostałych maszyn, urządzeń i"
+              "name": "Sprzedaż hurtowa pozostałych maszyn, urządzeń i dodatkowego wyposażenia"
             },
             {
               "classes": [
                 {
                   "code": "46.71",
-                  "name": "46.71.Z  Sprzedaż hurtowa pojazdów silnikowych, z",
+                  "name": "46.71.Z  Sprzedaż hurtowa pojazdów silnikowych, z wyłączeniem motocykli",
                   "subclasses": []
                 },
                 {
                   "code": "46.72",
-                  "name": "46.72.Z  Sprzedaż hurtowa części i akcesoriów do pojazdów",
+                  "name": "46.72.Z  Sprzedaż hurtowa części i akcesoriów do pojazdów silnikowych, z wyłączeniem motocykli",
                   "subclasses": []
                 },
                 {
                   "code": "46.73",
-                  "name": "46.73.Z  Sprzedaż hurtowa motocykli oraz części i akcesoriów",
+                  "name": "46.73.Z  Sprzedaż hurtowa motocykli oraz części i akcesoriów do nich",
                   "subclasses": []
                 }
               ],
               "code": "46.7",
-              "name": "Sprzedaż hurtowa pojazdów silnikowych, w tym"
+              "name": "Sprzedaż hurtowa pojazdów silnikowych, w tym motocykli, oraz części i akcesoriów do nich"
             },
             {
               "classes": [
                 {
                   "code": "46.81",
-                  "name": "46.81.Z  Sprzedaż hurtowa paliw stałych, ciekłych, gazowych",
+                  "name": "46.81.Z  Sprzedaż hurtowa paliw stałych, ciekłych, gazowych oraz produktów pochodnych",
                   "subclasses": []
                 },
                 {
@@ -2603,18 +2758,27 @@
                 },
                 {
                   "code": "46.83",
-                  "name": "46.83.Z  Sprzedaż hurtowa drewna, materiałów budowlanych",
+                  "name": "46.83.Z  Sprzedaż hurtowa drewna, materiałów budowlanych i wyposażenia sanitarnego",
                   "subclasses": []
                 },
                 {
                   "code": "46.84",
-                  "name": "46.84.Z  Sprzedaż hurtowa wyrobów metalowych oraz sprzętu",
+                  "name": "46.84.Z  Sprzedaż hurtowa wyrobów metalowych oraz sprzętu i dodatkowego wyposażenia hydraulicznego i grzejnego",
                   "subclasses": []
                 },
                 {
                   "code": "46.85",
                   "name": "Sprzedaż hurtowa wyrobów chemicznych",
-                  "subclasses": []
+                  "subclasses": [
+                    {
+                      "code": "46.85.A",
+                      "name": "46.85.A  Sprzedaż hurtowa chemicznych nawozów i środków ochrony roślin"
+                    },
+                    {
+                      "code": "46.85.B",
+                      "name": "46.85.B  Pozostała sprzedaż hurtowa wyrobów chemicznych"
+                    }
+                  ]
                 },
                 {
                   "code": "46.86",
@@ -2628,7 +2792,7 @@
                 },
                 {
                   "code": "46.89",
-                  "name": "46.89.Z  Pozostała sprzedaż hurtowa wyspecjalizowana, gdzie",
+                  "name": "46.89.Z  Pozostała sprzedaż hurtowa wyspecjalizowana, gdzie indziej niesklasyfikowana",
                   "subclasses": []
                 }
               ],
@@ -2650,7 +2814,7 @@
               "classes": [
                 {
                   "code": "47.11",
-                  "name": "47.11.Z  Sprzedaż detaliczna niewyspecjalizowana z",
+                  "name": "47.11.Z  Sprzedaż detaliczna niewyspecjalizowana z przewagą żywności, napojów lub wyrobów tytoniowych",
                   "subclasses": []
                 },
                 {
@@ -2681,12 +2845,12 @@
                 },
                 {
                   "code": "47.24",
-                  "name": "47.24.Z  Sprzedaż detaliczna pieczywa, ciast, wyrobów",
+                  "name": "47.24.Z  Sprzedaż detaliczna pieczywa, ciast, wyrobów ciastkarskich i cukierniczych",
                   "subclasses": []
                 },
                 {
                   "code": "47.25",
-                  "name": "47.25.Z  Sprzedaż detaliczna napojów alkoholowych i",
+                  "name": "47.25.Z  Sprzedaż detaliczna napojów alkoholowych i bezalkoholowych",
                   "subclasses": []
                 },
                 {
@@ -2701,7 +2865,7 @@
                 }
               ],
               "code": "47.2",
-              "name": "Sprzedaż detaliczna żywności, napojów i wyrobów"
+              "name": "Sprzedaż detaliczna żywności, napojów i wyrobów tytoniowych"
             },
             {
               "classes": [],
@@ -2711,7 +2875,7 @@
             {
               "classes": [],
               "code": "47.4",
-              "name": "47.40  47.40.Z  Sprzedaż detaliczna narzędzi technologii"
+              "name": "47.40  47.40.Z  Sprzedaż detaliczna narzędzi technologii informacyjnej i komunikacyjnej"
             },
             {
               "classes": [
@@ -2722,27 +2886,27 @@
                 },
                 {
                   "code": "47.52",
-                  "name": "47.52.Z  Sprzedaż detaliczna drobnych wyrobów metalowych,",
+                  "name": "47.52.Z  Sprzedaż detaliczna drobnych wyrobów metalowych, materiałów budowlanych, farb i szkła",
                   "subclasses": []
                 },
                 {
                   "code": "47.53",
-                  "name": "47.53.Z  Sprzedaż detaliczna dywanów, chodników i innych",
+                  "name": "47.53.Z  Sprzedaż detaliczna dywanów, chodników i innych pokryć podłogowych oraz pokryć ściennych",
                   "subclasses": []
                 },
                 {
                   "code": "47.54",
-                  "name": "47.54.Z  Sprzedaż detaliczna elektrycznego sprzętu",
+                  "name": "47.54.Z  Sprzedaż detaliczna elektrycznego sprzętu gospodarstwa domowego",
                   "subclasses": []
                 },
                 {
                   "code": "47.55",
-                  "name": "47.55.Z  Sprzedaż detaliczna mebli, sprzętu oświetleniowego,",
+                  "name": "47.55.Z  Sprzedaż detaliczna mebli, sprzętu oświetleniowego, artykułów stołowych oraz pozostałych artykułów użytku domowego",
                   "subclasses": []
                 }
               ],
               "code": "47.5",
-              "name": "Sprzedaż detaliczna pozostałych artykułów użytku"
+              "name": "Sprzedaż detaliczna pozostałych artykułów użytku domowego"
             },
             {
               "classes": [
@@ -2753,7 +2917,7 @@
                 },
                 {
                   "code": "47.62",
-                  "name": "47.62.Z  Sprzedaż detaliczna gazet i pozostałych periodyków",
+                  "name": "47.62.Z  Sprzedaż detaliczna gazet i pozostałych periodyków oraz artykułów papierniczych",
                   "subclasses": []
                 },
                 {
@@ -2768,12 +2932,25 @@
                 },
                 {
                   "code": "47.69",
-                  "name": "Sprzedaż detaliczna wyrobów związanych z kulturą i",
-                  "subclasses": []
+                  "name": "Sprzedaż detaliczna wyrobów związanych z kulturą i rekreacją, gdzie indziej niesklasyfikowana",
+                  "subclasses": [
+                    {
+                      "code": "47.69.A",
+                      "name": "47.69.A  Sprzedaż detaliczna instrumentów muzycznych i nut"
+                    },
+                    {
+                      "code": "47.69.B",
+                      "name": "47.69.B  Sprzedaż detaliczna dzieł sztuki"
+                    },
+                    {
+                      "code": "47.69.C",
+                      "name": "47.69.C  Sprzedaż detaliczna pozostałych wyrobów związanych z kulturą i rekreacją, gdzie indziej niesklasyfikowana"
+                    }
+                  ]
                 }
               ],
               "code": "47.6",
-              "name": "Sprzedaż detaliczna wyrobów związanych z kulturą i"
+              "name": "Sprzedaż detaliczna wyrobów związanych z kulturą i rekreacją"
             },
             {
               "classes": [
@@ -2794,18 +2971,27 @@
                 },
                 {
                   "code": "47.74",
-                  "name": "47.74.Z  Sprzedaż detaliczna wyrobów medycznych i",
+                  "name": "47.74.Z  Sprzedaż detaliczna wyrobów medycznych i ortopedycznych",
                   "subclasses": []
                 },
                 {
                   "code": "47.75",
-                  "name": "47.75.Z  Sprzedaż detaliczna kosmetyków i artykułów",
+                  "name": "47.75.Z  Sprzedaż detaliczna kosmetyków i artykułów toaletowych",
                   "subclasses": []
                 },
                 {
                   "code": "47.76",
-                  "name": "Sprzedaż detaliczna kwiatów, roślin, nawozów,",
-                  "subclasses": []
+                  "name": "Sprzedaż detaliczna kwiatów, roślin, nawozów, żywych zwierząt domowych i karmy dla zwierząt domowych",
+                  "subclasses": [
+                    {
+                      "code": "47.76.A",
+                      "name": "47.76.A  Sprzedaż detaliczna kwiatów, roślin, nasion, nawozów i środków ochrony roślin"
+                    },
+                    {
+                      "code": "47.76.B",
+                      "name": "47.76.B  Sprzedaż detaliczna żywych zwierząt domowych, karmy dla zwierząt domowych"
+                    }
+                  ]
                 },
                 {
                   "code": "47.77",
@@ -2820,43 +3006,56 @@
                 {
                   "code": "47.79",
                   "name": "Sprzedaż detaliczna artykułów używanych",
-                  "subclasses": []
+                  "subclasses": [
+                    {
+                      "code": "47.79.A",
+                      "name": "47.79.A  Sprzedaż detaliczna używanych lub antykwarycznych książek"
+                    },
+                    {
+                      "code": "47.79.B",
+                      "name": "47.79.B  Sprzedaż detaliczna antyków"
+                    },
+                    {
+                      "code": "47.79.C",
+                      "name": "47.79.C  Sprzedaż detaliczna pozostałych artykułów używanych"
+                    }
+                  ]
                 }
               ],
               "code": "47.7",
-              "name": "Sprzedaż detaliczna pozostałych wyrobów z"
+              "name": "Sprzedaż detaliczna pozostałych wyrobów z wyłączeniem pojazdów silnikowych, w tym motocykli"
             },
             {
               "classes": [
                 {
                   "code": "47.81",
-                  "name": "47.81.Z  Sprzedaż detaliczna pojazdów silnikowych, z",
+                  "name": "47.81.Z  Sprzedaż detaliczna pojazdów silnikowych, z wyłączeniem motocykli",
                   "subclasses": []
                 },
                 {
                   "code": "47.82",
-                  "name": "47.82.Z  Sprzedaż detaliczna części i akcesoriów do pojazdów",
+                  "name": "47.82.Z  Sprzedaż detaliczna części i akcesoriów do pojazdów silnikowych, z wyłączeniem motocykli",
                   "subclasses": []
                 },
                 {
                   "code": "47.83",
-                  "name": "47.83.Z  Sprzedaż detaliczna motocykli oraz części i",
+                  "name": "47.83.Z  Sprzedaż detaliczna motocykli oraz części i akcesoriów do nich",
                   "subclasses": []
                 }
               ],
               "code": "47.8",
-              "name": "Sprzedaż detaliczna pojazdów silnikowych, w tym"
+              "name": "Sprzedaż detaliczna pojazdów silnikowych, w tym motocykli, oraz części i akcesoriów do nich"
             },
             {
               "classes": [
                 {
                   "code": "47.91",
-                  "name": "47.91.Z  Pośrednictwo w sprzedaży detalicznej",
+                  "name": "47.91.Z  Pośrednictwo w sprzedaży detalicznej niewyspecjalizowanej",
                   "subclasses": []
                 },
                 {
                   "code": "47.92",
-                  "name": "47.92.Z  Pośrednictwo w sprzedaży detalicznej",
+                  "name": "47.92.Z  Pośrednictwo w sprzedaży detalicznej wyspecjalizowanej",
                   "subclasses": []
                 }
               ],
@@ -2910,17 +3109,17 @@
                 },
                 {
                   "code": "49.33",
-                  "name": "49.33.Z  Transport pasażerski na żądanie pojazdem z",
+                  "name": "49.33.Z  Transport pasażerski na żądanie pojazdem z kierowcą",
                   "subclasses": []
                 },
                 {
                   "code": "49.34",
-                  "name": "49.34.Z  Transport pasażerski kolejami linowymi i wyciągami",
+                  "name": "49.34.Z  Transport pasażerski kolejami linowymi i wyciągami narciarskimi",
                   "subclasses": []
                 },
                 {
                   "code": "49.39",
-                  "name": "49.39.Z  Pozostały transport lądowy pasażerski, gdzie indziej",
+                  "name": "49.39.Z  Pozostały transport lądowy pasażerski, gdzie indziej niesklasyfikowany",
                   "subclasses": []
                 }
               ],
@@ -2941,10 +3140,19 @@
                 }
               ],
               "code": "49.4",
-              "name": "Transport drogowy towarów oraz działalność"
+              "name": "Transport drogowy towarów oraz działalność usługowa związana z przeprowadzkami"
             },
             {
-              "classes": [],
+              "classes": [
+                {
+                  "code": "49.50.A",
+                  "name": "49.50.A  Transport rurociągowy paliw gazowych"
+                },
+                {
+                  "code": "49.50.B",
+                  "name": "49.50.B  Transport rurociągowy pozostałych towarów"
+                }
+              ],
               "code": "49.5",
               "name": "49.50  Transport rurociągowy"
             }
@@ -3008,7 +3216,16 @@
           "code": "52",
           "groups": [
             {
-              "classes": [],
+              "classes": [
+                {
+                  "code": "52.10.A",
+                  "name": "52.10.A  Magazynowanie i przechowywanie zbóż i nasion oleistych"
+                },
+                {
+                  "code": "52.10.B",
+                  "name": "52.10.B  Magazynowanie i przechowywanie pozostałych towarów"
+                }
+              ],
               "code": "52.1",
               "name": "52.10  Magazynowanie i przechowywanie towarów"
             },
@@ -3016,23 +3233,54 @@
               "classes": [
                 {
                   "code": "52.21",
-                  "name": "Działalność usługowa wspomagająca transport",
-                  "subclasses": []
+                  "name": "Działalność usługowa wspomagająca transport lądowy",
+                  "subclasses": [
+                    {
+                      "code": "52.21.A",
+                      "name": "52.21.A  Pomoc drogowa"
+                    },
+                    {
+                      "code": "52.21.B",
+                      "name": "52.21.B  Pozostała działalność usługowa wspomagająca transport lądowy"
+                    }
+                  ]
                 },
                 {
                   "code": "52.22",
-                  "name": "Działalność usługowa wspomagająca transport",
-                  "subclasses": []
+                  "name": "Działalność usługowa wspomagająca transport wodny",
+                  "subclasses": [
+                    {
+                      "code": "52.22.A",
+                      "name": "52.22.A  Działalność usługowa wspomagająca transport morski"
+                    },
+                    {
+                      "code": "52.22.B",
+                      "name": "52.22.B  Działalność usługowa wspomagająca transport wodny śródlądowy"
+                    }
+                  ]
                 },
                 {
                   "code": "52.23",
-                  "name": "52.23.Z  Działalność usługowa wspomagająca transport",
+                  "name": "52.23.Z  Działalność usługowa wspomagająca transport lotniczy",
                   "subclasses": []
                 },
                 {
                   "code": "52.24",
                   "name": "Przeładunek towarów",
-                  "subclasses": []
+                  "subclasses": [
+                    {
+                      "code": "52.24.A",
+                      "name": "52.24.A  Przeładunek towarów w portach morskich"
+                    },
+                    {
+                      "code": "52.24.B",
+                      "name": "52.24.B  Przeładunek towarów w portach śródlądowych"
+                    },
+                    {
+                      "code": "52.24.C",
+                      "name": "52.24.C  Przeładunek towarów w pozostałych punktach przeładunkowych"
+                    }
+                  ]
                 },
                 {
                   "code": "52.25",
@@ -3041,7 +3289,7 @@
                 },
                 {
                   "code": "52.26",
-                  "name": "52.26.Z  Pozostała działalność usługowa wspomagająca",
+                  "name": "52.26.Z  Pozostała działalność usługowa wspomagająca transport",
                   "subclasses": []
                 }
               ],
@@ -3065,7 +3313,7 @@
               "name": "Pośrednictwo w transporcie"
             }
           ],
-          "name": "Magazynowanie, przechowywanie i działalność"
+          "name": "Magazynowanie, przechowywanie i działalność usługowa wspomagająca transport"
         },
         {
           "code": "53",
@@ -3073,7 +3321,7 @@
             {
               "classes": [],
               "code": "53.1",
-              "name": "53.10  53.10.Z  Działalność pocztowa objęta obowiązkiem"
+              "name": "53.10  53.10.Z  Działalność pocztowa objęta obowiązkiem świadczenia usług powszechnych (operatora publicznego)"
             },
             {
               "classes": [],
@@ -3083,7 +3331,7 @@
             {
               "classes": [],
               "code": "53.3",
-              "name": "53.30  53.30.Z  Pośrednictwo w zakresie działalności pocztowej i"
+              "name": "53.30  53.30.Z  Pośrednictwo w zakresie działalności pocztowej i kurierskiej"
             }
           ],
           "name": "Działalność pocztowa i kurierska"
@@ -3105,12 +3353,12 @@
             {
               "classes": [],
               "code": "55.2",
-              "name": "55.20  55.20.Z  Obiekty noclegowe turystyczne i miejsca"
+              "name": "55.20  55.20.Z  Obiekty noclegowe turystyczne i miejsca krótkotrwałego zakwaterowania"
             },
             {
               "classes": [],
               "code": "55.3",
-              "name": "55.30  Pola kempingowe"
+              "name": "55.30  Pola kempingowe 55.30.Z  Pola kempingowe i pola namiotowe"
             },
             {
               "classes": [],
@@ -3148,17 +3396,17 @@
               "classes": [
                 {
                   "code": "56.21",
-                  "name": "56.21.Z  Okazjonalne przygotowywanie i dostarczanie",
+                  "name": "56.21.Z  Okazjonalne przygotowywanie i dostarczanie żywności dla odbiorców zewnętrznych (katering okazjonalny)",
                   "subclasses": []
                 },
                 {
                   "code": "56.22",
-                  "name": "56.22.Z  Regularne przygotowywanie i dostarczanie żywności",
+                  "name": "56.22.Z  Regularne przygotowywanie i dostarczanie żywności dla odbiorców zewnętrznych (katering regularny) i pozostała gastronomiczna działalność usługowa",
                   "subclasses": []
                 }
               ],
               "code": "56.2",
-              "name": "Okazjonalne i regularne przygotowywanie żywności"
+              "name": "Okazjonalne i regularne przygotowywanie żywności dla odbiorców zewnętrznych (katering) i pozostała gastronomiczna działalność usługowa"
             },
             {
               "classes": [],
@@ -3168,13 +3416,13 @@
             {
               "classes": [],
               "code": "56.4",
-              "name": "56.40  56.40.Z  Pośrednictwo w zakresie działalności usługowej"
+              "name": "56.40  56.40.Z  Pośrednictwo w zakresie działalności usługowej związanej z wyżywieniem"
             }
           ],
           "name": "Działalność usługowa związana z wyżywieniem"
         }
       ],
-      "name": " DZIAŁALNOŚĆ ZWIĄZANA Z ZAKWATEROWANIEM I"
+      "name": " DZIAŁALNOŚĆ ZWIĄZANA Z ZAKWATEROWANIEM I USŁUGAMI GASTRONOMICZNYMI"
     },
     {
       "code": "J",
@@ -3201,23 +3449,23 @@
                 },
                 {
                   "code": "58.19",
-                  "name": "58.19.Z  Pozostała działalność wydawnicza, z wyłączeniem w",
+                  "name": "58.19.Z  Pozostała działalność wydawnicza, z wyłączeniem w zakresie oprogramowania",
                   "subclasses": []
                 }
               ],
               "code": "58.1",
-              "name": "Wydawanie książek, gazet i periodyków oraz"
+              "name": "Wydawanie książek, gazet i periodyków oraz pozostała działalność wydawnicza, z wyłączeniem w zakresie oprogramowania"
             },
             {
               "classes": [
                 {
                   "code": "58.21",
-                  "name": "58.21.Z  Działalność wydawnicza w zakresie gier",
+                  "name": "58.21.Z  Działalność wydawnicza w zakresie gier komputerowych",
                   "subclasses": []
                 },
                 {
                   "code": "58.29",
-                  "name": "58.29.Z  Działalność wydawnicza w zakresie pozostałego",
+                  "name": "58.29.Z  Działalność wydawnicza w zakresie pozostałego oprogramowania",
                   "subclasses": []
                 }
               ],
@@ -3234,17 +3482,17 @@
               "classes": [
                 {
                   "code": "59.11",
-                  "name": "59.11.Z  Działalność związana z produkcją filmów, nagrań",
+                  "name": "59.11.Z  Działalność związana z produkcją filmów, nagrań wideo i programów telewizyjnych",
                   "subclasses": []
                 },
                 {
                   "code": "59.12",
-                  "name": "59.12.Z  Działalność postprodukcyjna związana z filmami,",
+                  "name": "59.12.Z  Działalność postprodukcyjna związana z filmami, nagraniami wideo i programami telewizyjnymi",
                   "subclasses": []
                 },
                 {
                   "code": "59.13",
-                  "name": "59.13.Z  Działalność związana z dystrybucją filmów i nagrań",
+                  "name": "59.13.Z  Działalność związana z dystrybucją filmów i nagrań wideo",
                   "subclasses": []
                 },
                 {
@@ -3254,15 +3502,15 @@
                 }
               ],
               "code": "59.1",
-              "name": "Działalność związana z filmami, nagraniami wideo i"
+              "name": "Działalność związana z filmami, nagraniami wideo i programami telewizyjnymi"
             },
             {
               "classes": [],
               "code": "59.2",
-              "name": "59.20  59.20.Z  Działalność w zakresie nagrań dźwiękowych i"
+              "name": "59.20  59.20.Z  Działalność w zakresie nagrań dźwiękowych i muzycznych"
             }
           ],
-          "name": "Działalność związana z produkcją filmów, nagrań"
+          "name": "Działalność związana z produkcją filmów, nagrań wideo, programów telewizyjnych, nagrań dźwiękowych i muzycznych"
         },
         {
           "code": "60",
@@ -3270,12 +3518,12 @@
             {
               "classes": [],
               "code": "60.1",
-              "name": "60.10  60.10.Z  Nadawanie programów radiofonicznych i"
+              "name": "60.10  60.10.Z  Nadawanie programów radiofonicznych i dystrybucja nagrań dźwiękowych"
             },
             {
               "classes": [],
               "code": "60.2",
-              "name": "60.20  60.20.Z  Nadawanie programów telewizyjnych"
+              "name": "60.20  60.20.Z  Nadawanie programów telewizyjnych ogólnodostępnych i abonamentowych oraz dystrybucja nagrań wideo"
             },
             {
               "classes": [
@@ -3291,13 +3539,13 @@
                 }
               ],
               "code": "60.3",
-              "name": "Działalność agencji informacyjnych i pozostała"
+              "name": "Działalność agencji informacyjnych i pozostała działalność związana z dystrybucją treści"
             }
           ],
-          "name": "Nadawanie programów ogólnodostępnych i"
+          "name": "Nadawanie programów ogólnodostępnych i abonamentowych, działalność agencji informacyjnych i pozostała działalność związana z dystrybucją treści"
         }
       ],
-      "name": " DZIAŁALNOŚĆ WYDAWNICZA I NADAWCZA ORAZ"
+      "name": " DZIAŁALNOŚĆ WYDAWNICZA I NADAWCZA ORAZ ZWIĄZANA Z PRODUKCJĄ I DYSTRYBUCJĄ TREŚCI"
     },
     {
       "code": "K",
@@ -3306,17 +3554,35 @@
           "code": "61",
           "groups": [
             {
-              "classes": [],
+              "classes": [
+                {
+                  "code": "61.10.A",
+                  "name": "61.10.A  Działalność w zakresie wymiany ruchu internetowego"
+                },
+                {
+                  "code": "61.10.B",
+                  "name": "61.10.B  Pozostała działalność w zakresie telekomunikacji przewodowej, bezprzewodowej i satelitarnej"
+                }
+              ],
               "code": "61.1",
-              "name": "61.10  Działalność w zakresie telekomunikacji"
+              "name": "61.10  Działalność w zakresie telekomunikacji przewodowej, bezprzewodowej i satelitarnej"
             },
             {
               "classes": [],
               "code": "61.2",
-              "name": "61.20  61.20.Z  Działalność w zakresie odsprzedaży usług"
+              "name": "61.20  61.20.Z  Działalność w zakresie odsprzedaży usług telekomunikacyjnych oraz pośrednictwo w telekomunikacji"
             },
             {
-              "classes": [],
+              "classes": [
+                {
+                  "code": "61.90.A",
+                  "name": "61.90.A  Działalność w obszarze komunikacji internetowej"
+                },
+                {
+                  "code": "61.90.B",
+                  "name": "61.90.B  Działalność w zakresie pozostałej telekomunikacji, gdzie indziej niesklasyfikowana"
+                }
+              ],
               "code": "61.9",
               "name": "61.90  Działalność w zakresie pozostałej telekomunikacji"
             }
@@ -3327,30 +3593,65 @@
           "code": "62",
           "groups": [
             {
-              "classes": [],
+              "classes": [
+                {
+                  "code": "62.10.A",
+                  "name": "62.10.A  Działalność w zakresie programowania gier komputerowych"
+                },
+                {
+                  "code": "62.10.B",
+                  "name": "62.10.B  Pozostała działalność w zakresie programowania"
+                }
+              ],
               "code": "62.1",
               "name": "62.10  Działalność w zakresie programowania"
             },
             {
-              "classes": [],
+              "classes": [
+                {
+                  "code": "62.20.A",
+                  "name": "62.20.A  Działalność w zakresie cyberbezpieczeństwa"
+                },
+                {
+                  "code": "62.20.B",
+                  "name": "62.20.B  Pozostała działalność związana z doradztwem w zakresie informatyki oraz zarządzaniem urządzeniami informatycznymi"
+                }
+              ],
               "code": "62.2",
-              "name": "62.20  Działalność związana z doradztwem w zakresie"
+              "name": "62.20  Działalność związana z doradztwem w zakresie informatyki oraz zarządzaniem urządzeniami informatycznymi"
             },
             {
               "classes": [],
               "code": "62.9",
-              "name": "62.90  62.90.Z  Pozostała działalność usługowa w zakresie"
+              "name": "62.90  62.90.Z  Pozostała działalność usługowa w zakresie technologii informatycznych i komputerowych"
             }
           ],
-          "name": "Działalność związana z programowaniem,"
+          "name": "Działalność związana z programowaniem, doradztwem w zakresie informatyki i działalności powiązane"
         },
         {
           "code": "63",
           "groups": [
             {
-              "classes": [],
+              "classes": [
+                {
+                  "code": "63.10.A",
+                  "name": "63.10.A  Działalność w zakresie kolokacji centrów danych oraz przetwarzania w chmurze"
+                },
+                {
+                  "code": "63.10.B",
+                  "name": "63.10.B  Działalność usługowa w zakresie DNS"
+                },
+                {
+                  "code": "63.10.C",
+                  "name": "63.10.C  Działalność w zakresie serwerów sieci dostarczania treści (content delivery network)"
+                },
+                {
+                  "code": "63.10.D",
+                  "name": "63.10.D  Pozostała działalność usługowa w zakresie infrastruktury obliczeniowej, przetwarzania danych, zarządzania stronami internetowymi (hosting) i działalności powiązane"
+                }
+              ],
               "code": "63.1",
-              "name": "63.10  Działalność usługowa w zakresie infrastruktury"
+              "name": "63.10  Działalność usługowa w zakresie infrastruktury obliczeniowej, przetwarzania danych, zarządzania stronami internetowymi (hosting) i działalności powiązane"
             },
             {
               "classes": [
@@ -3361,18 +3662,18 @@
                 },
                 {
                   "code": "63.92",
-                  "name": "63.92.Z  Pozostała działalność usługowa w zakresie",
+                  "name": "63.92.Z  Pozostała działalność usługowa w zakresie informacji",
                   "subclasses": []
                 }
               ],
               "code": "63.9",
-              "name": "Działalność wyszukiwarek internetowych oraz"
+              "name": "Działalność wyszukiwarek internetowych oraz pozostała działalność usługowa w zakresie informacji"
             }
           ],
-          "name": "Działalność usługowa w zakresie infrastruktury"
+          "name": "Działalność usługowa w zakresie infrastruktury obliczeniowej, przetwarzania danych, zarządzania stronami internetowymi (hosting) i pozostała działalność usługowa w zakresie informacji"
         }
       ],
-      "name": "DZIAŁALNOŚĆ USŁUGOWA W ZAKRESIE TELEKOMUNIKACJI, PROGRAMOWANIA KOMPUTEROWEGO, DORADZTWA, INFRASTRUKTURY OBLICZENIOWEJ ORAZ POZOSTAŁA DZIAŁALNOŚĆ USŁUGOWA W ZAKRESIE INFORMACJI"
+      "name": " DZIAŁALNOŚĆ USŁUGOWA W ZAKRESIE TELEKOMUNIKACJI, PROGRAMOWANIA KOMPUTEROWEGO, DORADZTWA, INFRASTRUKTURY OBLICZENIOWEJ ORAZ POZOSTAŁA DZIAŁALNOŚĆ USŁUGOWA W ZAKRESIE INFORMACJI"
     },
     {
       "code": "L",
@@ -3405,18 +3706,18 @@
                 },
                 {
                   "code": "64.22",
-                  "name": "64.22.Z  Działalność spółek pozyskujących finansowanie na",
+                  "name": "64.22.Z  Działalność spółek pozyskujących finansowanie na rzecz innych podmiotów",
                   "subclasses": []
                 }
               ],
               "code": "64.2",
-              "name": "Działalność spółek holdingowych i spółek"
+              "name": "Działalność spółek holdingowych i spółek pozyskujących finansowanie na rzecz innych podmiotów"
             },
             {
               "classes": [
                 {
                   "code": "64.31",
-                  "name": "64.31.Z  Działalność funduszy rynku pieniężnego i funduszy",
+                  "name": "64.31.Z  Działalność funduszy rynku pieniężnego i funduszy inwestycyjnych niebędących funduszami rynku pieniężnego",
                   "subclasses": []
                 },
                 {
@@ -3426,7 +3727,7 @@
                 }
               ],
               "code": "64.3",
-              "name": "Działalność trustów, funduszy i podobnych instytucji"
+              "name": "Działalność trustów, funduszy i podobnych instytucji finansowych"
             },
             {
               "classes": [
@@ -3438,19 +3739,28 @@
                 {
                   "code": "64.92",
                   "name": "Pozostałe formy udzielania kredytów",
-                  "subclasses": []
+                  "subclasses": [
+                    {
+                      "code": "64.92.A",
+                      "name": "64.92.A  Działalność lombardów"
+                    },
+                    {
+                      "code": "64.92.B",
+                      "name": "64.92.B  Pozostałe formy udzielania kredytów, gdzie indziej niesklasyfikowane"
+                    }
+                  ]
                 },
                 {
                   "code": "64.99",
-                  "name": "64.99.Z  Pozostała finansowa działalność usługowa, z",
+                  "name": "64.99.Z  Pozostała finansowa działalność usługowa, z wyłączeniem ubezpieczeń i funduszy emerytalnych, gdzie indziej niesklasyfikowana",
                   "subclasses": []
                 }
               ],
               "code": "64.9",
-              "name": "Pozostała finansowa działalność usługowa, z"
+              "name": "Pozostała finansowa działalność usługowa, z wyłączeniem ubezpieczeń i funduszy emerytalnych"
             }
           ],
-          "name": "Finansowa działalność usługowa, z wyłączeniem"
+          "name": "Finansowa działalność usługowa, z wyłączeniem ubezpieczeń i funduszy emerytalnych"
         },
         {
           "code": "65",
@@ -3464,7 +3774,7 @@
                 },
                 {
                   "code": "65.12",
-                  "name": "65.12.Z  Działalność w zakresie pozostałych ubezpieczeń",
+                  "name": "65.12.Z  Działalność w zakresie pozostałych ubezpieczeń osobowych oraz ubezpieczeń majątkowych",
                   "subclasses": []
                 }
               ],
@@ -3482,7 +3792,7 @@
               "name": "65.30  65.30.Z  Działalność w zakresie funduszy emerytalnych"
             }
           ],
-          "name": "Działalność w zakresie ubezpieczeń, reasekuracji"
+          "name": "Działalność w zakresie ubezpieczeń, reasekuracji oraz funduszy emerytalnych, z wyłączeniem obowiązkowego ubezpieczenia społecznego"
         },
         {
           "code": "66",
@@ -3496,23 +3806,23 @@
                 },
                 {
                   "code": "66.12",
-                  "name": "66.12.Z  Działalność maklerska związana z rynkiem papierów",
+                  "name": "66.12.Z  Działalność maklerska związana z rynkiem papierów wartościowych i towarów giełdowych",
                   "subclasses": []
                 },
                 {
                   "code": "66.19",
-                  "name": "66.19.Z  Pozostała działalność wspomagająca usługi",
+                  "name": "66.19.Z  Pozostała działalność wspomagająca usługi finansowe, z wyłączeniem ubezpieczeń i funduszy emerytalnych",
                   "subclasses": []
                 }
               ],
               "code": "66.1",
-              "name": "Działalność wspomagająca usługi finansowe, z"
+              "name": "Działalność wspomagająca usługi finansowe, z wyłączeniem ubezpieczeń i funduszy emerytalnych"
             },
             {
               "classes": [
                 {
                   "code": "66.21",
-                  "name": "66.21.Z  Działalność związana z oceną ryzyka i szacowaniem",
+                  "name": "66.21.Z  Działalność związana z oceną ryzyka i szacowaniem poniesionych strat",
                   "subclasses": []
                 },
                 {
@@ -3522,12 +3832,12 @@
                 },
                 {
                   "code": "66.29",
-                  "name": "66.29.Z  Działalność wspomagająca ubezpieczenia i fundusze",
+                  "name": "66.29.Z  Działalność wspomagająca ubezpieczenia i fundusze emerytalne, gdzie indziej niesklasyfikowana",
                   "subclasses": []
                 }
               ],
               "code": "66.2",
-              "name": "Działalność wspomagająca ubezpieczenia i fundusze"
+              "name": "Działalność wspomagająca ubezpieczenia i fundusze emerytalne"
             },
             {
               "classes": [],
@@ -3535,7 +3845,7 @@
               "name": "66.30  66.30.Z  Działalność związana z zarządzaniem funduszami"
             }
           ],
-          "name": "Działalność wspomagająca usługi finansowe,"
+          "name": "Działalność wspomagająca usługi finansowe, ubezpieczenia i fundusze emerytalne"
         }
       ],
       "name": " DZIAŁALNOŚĆ FINANSOWA I UBEZPIECZENIOWA"
@@ -3556,16 +3866,29 @@
                 {
                   "code": "68.12",
                   "name": "Realizacja projektów budowlanych",
-                  "subclasses": []
+                  "subclasses": [
+                    {
+                      "code": "68.12.A",
+                      "name": "68.12.A  Realizacja projektów budowlanych związanych ze wznoszeniem budynków mieszkalnych"
+                    },
+                    {
+                      "code": "68.12.B",
+                      "name": "68.12.B  Realizacja projektów budowlanych związanych ze wznoszeniem budynków niemieszkalnych"
+                    },
+                    {
+                      "code": "68.12.C",
+                      "name": "68.12.C  Realizacja pozostałych projektów budowlanych"
+                    }
+                  ]
                 }
               ],
               "code": "68.1",
-              "name": "Działalność związana z obsługą rynku nieruchomości"
+              "name": "Działalność związana z obsługą rynku nieruchomości na własny rachunek oraz realizacja projektów budowlanych"
             },
             {
               "classes": [],
               "code": "68.2",
-              "name": "68.20  68.20.Z  Wynajem i zarządzanie nieruchomościami własnymi"
+              "name": "68.20  68.20.Z  Wynajem i zarządzanie nieruchomościami własnymi lub dzierżawionymi"
             },
             {
               "classes": [
@@ -3576,18 +3899,31 @@
                 },
                 {
                   "code": "68.32",
-                  "name": "Pozostała działalność związana z obsługą rynku",
-                  "subclasses": []
+                  "name": "Pozostała działalność związana z obsługą rynku nieruchomości wykonywana na zlecenie ",
+                  "subclasses": [
+                    {
+                      "code": "68.32.A",
+                      "name": "68.32.A  Działalność związana z wyceną nieruchomości"
+                    },
+                    {
+                      "code": "68.32.B",
+                      "name": "68.32.B  Działalność związana z zarządzaniem nieruchomościami wykonywanym na zlecenie"
+                    },
+                    {
+                      "code": "68.32.C",
+                      "name": "68.32.C  Pozostała działalność związana z obsługą rynku nieruchomości wykonywana na zlecenie, gdzie indziej niesklasyfikowana"
+                    }
+                  ]
                 }
               ],
               "code": "68.3",
-              "name": "Działalność związana z obsługą rynku nieruchomości"
+              "name": "Działalność związana z obsługą rynku nieruchomości wykonywana na zlecenie"
             }
           ],
           "name": "Działalność związana z obsługą rynku nieruchomości"
         }
       ],
-      "name": " DZIAŁALNOŚĆ ZWIĄZANA Z OBSŁUGĄ RYNKU"
+      "name": " DZIAŁALNOŚĆ ZWIĄZANA Z OBSŁUGĄ RYNKU NIERUCHOMOŚCI"
     },
     {
       "code": "N",
@@ -3601,28 +3937,50 @@
               "name": "69.10  69.10.Z  Działalność prawnicza"
             },
             {
-              "classes": [],
+              "classes": [
+                {
+                  "code": "69.20.A",
+                  "name": "69.20.A. Działalność rachunkowo-księgowa"
+                },
+                {
+                  "code": "69.20.B",
+                  "name": "69.20.B  Doradztwo podatkowe"
+                },
+                {
+                  "code": "69.20.C",
+                  "name": "69.20.C  Działalność w zakresie audytu finansowego"
+                }
+              ],
               "code": "69.2",
-              "name": "69.20  Działalność rachunkowo-księgowa; doradztwo"
+              "name": "69.20  Działalność rachunkowo-księgowa; doradztwo podatkowe"
             }
           ],
-          "name": "Działalność prawnicza, rachunkowo-księgowa i"
+          "name": "Działalność prawnicza, rachunkowo-księgowa i doradztwo podatkowe"
         },
         {
           "code": "70",
           "groups": [
             {
-              "classes": [],
+              "classes": [
+                {
+                  "code": "70.10.A",
+                  "name": "70.10.A  Działalność biur głównych"
+                },
+                {
+                  "code": "70.10.B",
+                  "name": "70.10.B  Działalność central usług wspólnych"
+                }
+              ],
               "code": "70.1",
               "name": "70.10  Działalność central (head offices)"
             },
             {
               "classes": [],
               "code": "70.2",
-              "name": "70.20  70.20.Z  Doradztwo w zakresie prowadzenia działalności"
+              "name": "70.20  70.20.Z  Doradztwo w zakresie prowadzenia działalności gospodarczej i pozostałe doradztwo w zakresie zarządzania"
             }
           ],
-          "name": "Działalność central (head offices) oraz doradztwo"
+          "name": "Działalność central (head offices) oraz doradztwo związane z zarządzaniem"
         },
         {
           "code": "71",
@@ -3636,20 +3994,42 @@
                 },
                 {
                   "code": "71.12",
-                  "name": "Działalność w zakresie inżynierii i związane z nią",
-                  "subclasses": []
+                  "name": "Działalność w zakresie inżynierii i związane z nią doradztwo techniczne",
+                  "subclasses": [
+                    {
+                      "code": "71.12.A",
+                      "name": "71.12.A  Działalność w zakresie geodezji i kartografii"
+                    },
+                    {
+                      "code": "71.12.B",
+                      "name": "71.12.B  Pozostała działalność w zakresie inżynierii i związane z nią doradztwo techniczne"
+                    }
+                  ]
                 }
               ],
               "code": "71.1",
-              "name": "Działalność w zakresie architektury i inżynierii oraz"
+              "name": "Działalność w zakresie architektury i inżynierii oraz związane z nią doradztwo techniczne"
             },
             {
-              "classes": [],
+              "classes": [
+                {
+                  "code": "71.20.A",
+                  "name": "71.20.A  Badania i analizy związane z jakością żywności"
+                },
+                {
+                  "code": "71.20.B",
+                  "name": "71.20.B  Kontrola i wydawanie opinii o stanie technicznym przewodów kominowych oraz wentylacyjnych"
+                },
+                {
+                  "code": "71.20.C",
+                  "name": "71.20.C  Pozostałe badania i analizy techniczne"
+                }
+              ],
               "code": "71.2",
               "name": "71.20  Badania i analizy techniczne"
             }
           ],
-          "name": "Działalność w zakresie architektury i inżynierii;"
+          "name": "Działalność w zakresie architektury i inżynierii; badania i analizy techniczne"
         },
         {
           "code": "72",
@@ -3657,12 +4037,12 @@
             {
               "classes": [],
               "code": "72.1",
-              "name": "72.10  72.10.Z  Badania naukowe i prace rozwojowe w dziedzinie"
+              "name": "72.10  72.10.Z  Badania naukowe i prace rozwojowe w dziedzinie nauk przyrodniczych i technicznych"
             },
             {
               "classes": [],
               "code": "72.2",
-              "name": "72.20  72.20.Z  Badania naukowe i prace rozwojowe w dziedzinie"
+              "name": "72.20  72.20.Z  Badania naukowe i prace rozwojowe w dziedzinie nauk społecznych i humanistycznych"
             }
           ],
           "name": "Badania naukowe i prace rozwojowe"
@@ -3692,12 +4072,21 @@
               "name": "73.20  73.20.Z  Badanie rynku i opinii publicznej"
             },
             {
-              "classes": [],
+              "classes": [
+                {
+                  "code": "73.30.A",
+                  "name": "73.30.A  Działalność lobbingowa"
+                },
+                {
+                  "code": "73.30.B",
+                  "name": "73.30.B  Działalność pozostała w zakresie public relations i komunikacji"
+                }
+              ],
               "code": "73.3",
               "name": "73.30  Działalność w zakresie public relations i komunikacji"
             }
           ],
-          "name": "Działalność w zakresie reklamy, badania rynku i"
+          "name": "Działalność w zakresie reklamy, badania rynku i public relations"
         },
         {
           "code": "74",
@@ -3706,12 +4095,12 @@
               "classes": [
                 {
                   "code": "74.11",
-                  "name": "74.11.Z  Działalność w zakresie wzornictwa przemysłowego i",
+                  "name": "74.11.Z  Działalność w zakresie wzornictwa przemysłowego i projektowania mody",
                   "subclasses": []
                 },
                 {
                   "code": "74.12",
-                  "name": "74.12.Z  Działalność w zakresie projektowania graficznego i",
+                  "name": "74.12.Z  Działalność w zakresie projektowania graficznego i komunikacji wizualnej",
                   "subclasses": []
                 },
                 {
@@ -3721,12 +4110,12 @@
                 },
                 {
                   "code": "74.14",
-                  "name": "74.14.Z  Pozostała działalność w zakresie specjalistycznego",
+                  "name": "74.14.Z  Pozostała działalność w zakresie specjalistycznego projektowania",
                   "subclasses": []
                 }
               ],
               "code": "74.1",
-              "name": "Działalność w zakresie specjalistycznego"
+              "name": "Działalność w zakresie specjalistycznego projektowania"
             },
             {
               "classes": [],
@@ -3742,20 +4131,25 @@
               "classes": [
                 {
                   "code": "74.91",
-                  "name": "Pośrednictwo w obrocie patentami i działalność",
-                  "subclasses": []
+                  "name": "Pośrednictwo w obrocie patentami i działalność marketingowa w tym zakresie",
+                  "subclasses": [
+                    {
+                      "code": "74.91.Z",
+                      "name": "74.91.Z  Działalność rzeczników patentowych i działalność marketingowa"
+                    }
+                  ]
                 },
                 {
                   "code": "74.99",
-                  "name": "74.99.Z  Wszelka pozostała działalność profesjonalna,",
+                  "name": "74.99.Z  Wszelka pozostała działalność profesjonalna, naukowa i techniczna, gdzie indziej niesklasyfikowana",
                   "subclasses": []
                 }
               ],
               "code": "74.9",
-              "name": "Pozostała działalność profesjonalna, naukowa i"
+              "name": "Pozostała działalność profesjonalna, naukowa i techniczna, gdzie indziej niesklasyfikowana"
             }
           ],
-          "name": "Pozostała działalność profesjonalna, naukowa i"
+          "name": "Pozostała działalność profesjonalna, naukowa i techniczna"
         },
         {
           "code": "75",
@@ -3775,8 +4169,12 @@
               "classes": [
                 {
                   "code": "77.11",
-                  "name": "Wynajem i dzierżawa samochodów osobowych i",
-                  "subclasses": []
+                  "name": "Wynajem i dzierżawa samochodów osobowych i lekkich pojazdów silnikowych",
+                  "subclasses": [
+                    {
+                      "code": "77.11.Z  Wynajem i dzierżawa samochodów osobowych i lekkich pojazdów silnikowych, w tym motocykli"
+                    }
+                  ]
                 },
                 {
                   "code": "77.12",
@@ -3791,17 +4189,17 @@
               "classes": [
                 {
                   "code": "77.21",
-                  "name": "77.21.Z  Wypożyczanie i dzierżawa sprzętu rekreacyjnego i",
+                  "name": "77.21.Z  Wypożyczanie i dzierżawa sprzętu rekreacyjnego i sportowego",
                   "subclasses": []
                 },
                 {
                   "code": "77.22",
-                  "name": "77.22.Z  Wypożyczanie i dzierżawa pozostałych artykułów",
+                  "name": "77.22.Z  Wypożyczanie i dzierżawa pozostałych artykułów użytku osobistego i domowego",
                   "subclasses": []
                 }
               ],
               "code": "77.2",
-              "name": "Wypożyczanie i dzierżawa artykułów użytku"
+              "name": "Wypożyczanie i dzierżawa artykułów użytku osobistego i domowego"
             },
             {
               "classes": [
@@ -3812,12 +4210,12 @@
                 },
                 {
                   "code": "77.32",
-                  "name": "77.32.Z  Wynajem i dzierżawa maszyn i urządzeń",
+                  "name": "77.32.Z  Wynajem i dzierżawa maszyn i urządzeń budowlanych",
                   "subclasses": []
                 },
                 {
                   "code": "77.33",
-                  "name": "77.33.Z  Wynajem i dzierżawa maszyn i urządzeń biurowych",
+                  "name": "77.33.Z  Wynajem i dzierżawa maszyn i urządzeń biurowych oraz komputerów",
                   "subclasses": []
                 },
                 {
@@ -3832,33 +4230,42 @@
                 },
                 {
                   "code": "77.39",
-                  "name": "77.39.Z  Wynajem i dzierżawa pozostałych maszyn, urządzeń",
+                  "name": "77.39.Z  Wynajem i dzierżawa pozostałych maszyn, urządzeń oraz dóbr materialnych, gdzie indziej niesklasyfikowane",
                   "subclasses": []
                 }
               ],
               "code": "77.3",
-              "name": "Wynajem i dzierżawa pozostałych maszyn, urządzeń"
+              "name": "Wynajem i dzierżawa pozostałych maszyn, urządzeń oraz dóbr materialnych"
             },
             {
-              "classes": [],
+              "classes": [
+                {
+                  "code": "77.40.A",
+                  "name": "77.40.A  Działalność związana z dzierżawą i rejestracją nazw domen internetowych"
+                },
+                {
+                  "code": "77.40.B",
+                  "name": "77.40.B  Pozostała dzierżawa własności intelektualnej i podobnych produktów, z wyłączeniem prac chronionych prawem autorskim"
+                }
+              ],
               "code": "77.4",
-              "name": "77.40  Dzierżawa własności intelektualnej i podobnych"
+              "name": "77.40  Dzierżawa własności intelektualnej i podobnych produktów, z wyłączeniem prac chronionych prawem autorskim "
             },
             {
               "classes": [
                 {
                   "code": "77.51",
-                  "name": "77.51.Z  Pośrednictwo w wynajmie i dzierżawie samochodów",
+                  "name": "77.51.Z  Pośrednictwo w wynajmie i dzierżawie samochodów osobowych, samochodów kempingowych i przyczep",
                   "subclasses": []
                 },
                 {
                   "code": "77.52",
-                  "name": "77.52.Z  Pośrednictwo w wynajmie i dzierżawie pozostałych",
+                  "name": "77.52.Z  Pośrednictwo w wynajmie i dzierżawie pozostałych dóbr materialnych oraz niefinansowych wartości niematerialnych i prawnych",
                   "subclasses": []
                 }
               ],
               "code": "77.5",
-              "name": "Pośrednictwo w wynajmie i dzierżawie dóbr"
+              "name": "Pośrednictwo w wynajmie i dzierżawie dóbr materialnych oraz niefinansowych wartości niematerialnych i prawnych"
             }
           ],
           "name": "Wynajem i dzierżawa"
@@ -3869,12 +4276,12 @@
             {
               "classes": [],
               "code": "78.1",
-              "name": "78.10  78.10.Z  Działalność związana z wyszukiwaniem miejsc pracy"
+              "name": "78.10  78.10.Z  Działalność związana z wyszukiwaniem miejsc pracy i pozyskiwaniem pracowników"
             },
             {
               "classes": [],
               "code": "78.2",
-              "name": "78.20  78.20.Z  Działalność agencji pracy tymczasowej i pozostała"
+              "name": "78.20  78.20.Z  Działalność agencji pracy tymczasowej i pozostała działalność związana z udostępnianiem pracowników"
             }
           ],
           "name": "Działalność związana z zatrudnieniem"
@@ -3896,26 +4303,26 @@
                 }
               ],
               "code": "79.1",
-              "name": "Działalność agentów turystycznych oraz"
+              "name": "Działalność agentów turystycznych oraz organizatorów turystyki"
             },
             {
               "classes": [
                 {
                   "code": "80.01",
-                  "name": "80.01.Z  Działalność detektywistyczna i działalność",
+                  "name": "80.01.Z  Działalność detektywistyczna i działalność ochroniarska w zakresie ochrony osobistej",
                   "subclasses": []
                 },
                 {
                   "code": "80.09",
-                  "name": "80.09.Z  Działalność ochroniarska, gdzie indziej",
+                  "name": "80.09.Z  Działalność ochroniarska, gdzie indziej niesklasyfikowana",
                   "subclasses": []
                 }
               ],
               "code": "79.9",
-              "name": "79.90  79.90.Z  Pozostała działalność usługowa w zakresie"
+              "name": "79.90  79.90.Z  Pozostała działalność usługowa w zakresie rezerwacji oraz działalności z nią związane"
             }
           ],
-          "name": "Działalność organizatorów turystyki, agentów"
+          "name": "Działalność organizatorów turystyki, agentów turystycznych oraz pozostała działalność usługowa w zakresie rezerwacji i działalności z nią związane"
         },
         {
           "code": "80",
@@ -3928,7 +4335,7 @@
             {
               "classes": [],
               "code": "81.1",
-              "name": "81.10  81.10.Z  Działalność pomocnicza związana z utrzymaniem"
+              "name": "81.10  81.10.Z  Działalność pomocnicza związana z utrzymaniem porządku w budynkach"
             },
             {
               "classes": [
@@ -3939,13 +4346,31 @@
                 },
                 {
                   "code": "81.22",
-                  "name": "Pozostałe sprzątanie budynków i obiektów",
-                  "subclasses": []
+                  "name": "Pozostałe sprzątanie budynków i obiektów przemysłowych",
+                  "subclasses": [
+                    {
+                      "code": "81.22.A",
+                      "name": "81.22.A  Czyszczenie kominów i palenisk, pieców, przewodów wentylacyjnych"
+                    },
+                    {
+                      "code": "81.22.B",
+                      "name": "81.22.B  Pozostałe sprzątanie budynków i obiektów przemysłowych, gdzie indziej niesklasyfikowane"
+                    }
+                  ]
                 },
                 {
                   "code": "81.23",
                   "name": "Pozostałe sprzątanie",
-                  "subclasses": []
+                  "subclasses": [
+                    {
+                      "code": "81.23.A",
+                      "name": "81.23.A  Działalność usługowa związana z dezynfekcją, dezynsekcją i deratyzacją"
+                    },
+                    {
+                      "code": "81.23.B",
+                      "name": "81.23.B  Pozostała działalność związana ze sprzątaniem, gdzie indziej niesklasyfikowana"
+                    }
+                  ]
                 }
               ],
               "code": "81.2",
@@ -3954,10 +4379,10 @@
             {
               "classes": [],
               "code": "81.3",
-              "name": "81.30  81.30.Z  Działalność usługowa związana z"
+              "name": "81.30  81.30.Z  Działalność usługowa związana z zagospodarowaniem terenów zieleni"
             }
           ],
-          "name": "Działalność usługowa związana z utrzymaniem"
+          "name": "Działalność usługowa związana z utrzymaniem porządku w budynkach i zagospodarowaniem terenów zieleni"
         },
         {
           "code": "82",
@@ -3965,7 +4390,7 @@
             {
               "classes": [],
               "code": "82.1",
-              "name": "82.10  82.10.Z  Działalność związana z administracyjną obsługą"
+              "name": "82.10  82.10.Z  Działalność związana z administracyjną obsługą biura, włączając działalność wspomagającą"
             },
             {
               "classes": [],
@@ -3975,18 +4400,18 @@
             {
               "classes": [],
               "code": "82.3",
-              "name": "82.30  82.30.Z  Działalność związana z organizacją targów, wystaw i"
+              "name": "82.30  82.30.Z  Działalność związana z organizacją targów, wystaw i kongresów"
             },
             {
               "classes": [],
               "code": "82.4",
-              "name": "82.40  82.40.Z  Pośrednictwo w zakresie działalności wspomagającej"
+              "name": "82.40  82.40.Z  Pośrednictwo w zakresie działalności wspomagającej prowadzenie działalności gospodarczej, gdzie indziej niesklasyfikowane"
             },
             {
               "classes": [
                 {
                   "code": "82.91",
-                  "name": "82.91.Z  Działalność świadczona przez agencje inkasa i biura",
+                  "name": "82.91.Z  Działalność świadczona przez agencje inkasa i biura kredytowe",
                   "subclasses": []
                 },
                 {
@@ -3996,18 +4421,27 @@
                 },
                 {
                   "code": "82.99",
-                  "name": "Pozostała działalność wspomagająca prowadzenie",
-                  "subclasses": []
+                  "name": "Pozostała działalność wspomagająca prowadzenie działalności gospodarczej, gdzie indziej niesklasyfikowana",
+                  "subclasses": [
+                    {
+                      "code": "82.99.A",
+                      "name": "82.99.A  Finansowanie społecznościowe dla przedsięwzięć gospodarczych"
+                    },
+                    {
+                      "code": "82.99.B",
+                      "name": "82.99.B  Działalność wspomagająca prowadzenie działalności gospodarczej, gdzie indziej niesklasyfikowana"
+                    }
+                  ]
                 }
               ],
               "code": "82.9",
-              "name": "Działalność komercyjna, gdzie indziej"
+              "name": "Działalność komercyjna, gdzie indziej niesklasyfikowana"
             }
           ],
-          "name": "Działalność związana z administracyjną obsługą"
+          "name": "Działalność związana z administracyjną obsługą biura i pozostała działalność wspomagająca prowadzenie działalności gospodarczej"
         }
       ],
-      "name": "  DZIAŁALNOŚĆ W ZAKRESIE USŁUG ADMINISTROWANIA I"
+      "name": "  DZIAŁALNOŚĆ W ZAKRESIE USŁUG ADMINISTROWANIA I DZIAŁALNOŚĆ WSPIERAJĄCA"
     },
     {
       "code": "P",
@@ -4019,22 +4453,22 @@
               "classes": [
                 {
                   "code": "84.11",
-                  "name": "84.11.Z  Kierowanie podstawowymi rodzajami działalności",
+                  "name": "84.11.Z  Kierowanie podstawowymi rodzajami działalności publicznej",
                   "subclasses": []
                 },
                 {
                   "code": "84.12",
-                  "name": "84.12.Z  Kierowanie działalnością usługową w zakresie",
+                  "name": "84.12.Z  Kierowanie działalnością usługową w zakresie ochrony zdrowia, edukacji, kultury oraz pozostałych usług społecznych",
                   "subclasses": []
                 },
                 {
                   "code": "84.13",
-                  "name": "84.13.Z  Kierowanie w zakresie efektywności",
+                  "name": "84.13.Z  Kierowanie w zakresie efektywności gospodarowania",
                   "subclasses": []
                 }
               ],
               "code": "84.1",
-              "name": "Administracja publiczna oraz polityka gospodarcza,"
+              "name": "Administracja publiczna oraz polityka gospodarcza, społeczna i w zakresie ochrony środowiska"
             },
             {
               "classes": [
@@ -4055,7 +4489,7 @@
                 },
                 {
                   "code": "84.24",
-                  "name": "84.24.Z  Bezpieczeństwo państwa, porządek i bezpieczeństwo",
+                  "name": "84.24.Z  Bezpieczeństwo państwa, porządek i bezpieczeństwo publiczne",
                   "subclasses": []
                 },
                 {
@@ -4073,10 +4507,10 @@
               "name": "84.30  84.30.Z  Obowiązkowe ubezpieczenia społeczne"
             }
           ],
-          "name": "Administracja publiczna i obrona narodowa;"
+          "name": "Administracja publiczna i obrona narodowa; obowiązkowe ubezpieczenia społeczne"
         }
       ],
-      "name": " ADMINISTRACJA PUBLICZNA I OBRONA NARODOWA;"
+      "name": " ADMINISTRACJA PUBLICZNA I OBRONA NARODOWA; OBOWIĄZKOWE UBEZPIECZENIA SPOŁECZNE"
     },
     {
       "code": "Q",
@@ -4103,17 +4537,43 @@
                 },
                 {
                   "code": "85.32",
-                  "name": "Szkoły prowadzące kształcenie zawodowe, z",
-                  "subclasses": []
+                  "name": "Szkoły prowadzące kształcenie zawodowe, z wyłączeniem placówek kształcenia policealnego",
+                  "subclasses": [
+                    {
+                      "code": "85.32.A",
+                      "name": "85.32.A  Technika"
+                    },
+                    {
+                      "code": "85.32.B",
+                      "name": "85.32.B  Branżowe szkoły I stopnia"
+                    },
+                    {
+                      "code": "85.32.C",
+                      "name": "85.32.C  Branżowe szkoły II stopnia"
+                    },
+                    {
+                      "code": "85.32.D",
+                      "name": "85.32.D  Szkoły specjalne przysposabiające do pracy"
+                    }
+                  ]
                 },
                 {
                   "code": "85.33",
                   "name": "Placówki kształcenia policealnego",
-                  "subclasses": []
+                  "subclasses": [
+                    {
+                      "code": "85.33.A",
+                      "name": "85.33.A  Szkoły policealne"
+                    },
+                    {
+                      "code": "85.33.B",
+                      "name": "85.33.B  Kolegia pracowników służb społecznych"
+                    }
+                  ]
                 }
               ],
               "code": "85.3",
-              "name": "Szkoły ponadpodstawowe i placówki kształcenia"
+              "name": "Szkoły ponadpodstawowe i placówki kształcenia policealnego"
             },
             {
               "classes": [],
@@ -4124,7 +4584,7 @@
               "classes": [
                 {
                   "code": "85.51",
-                  "name": "85.51.Z  Pozostałe formy edukacji sportowej oraz zajęć",
+                  "name": "85.51.Z  Pozostałe formy edukacji sportowej oraz zajęć sportowych i rekreacyjnych",
                   "subclasses": []
                 },
                 {
@@ -4134,13 +4594,26 @@
                 },
                 {
                   "code": "85.53",
-                  "name": "85.53.Z  Pozostałe formy edukacji z zakresu nauki jazdy i",
+                  "name": "85.53.Z  Pozostałe formy edukacji z zakresu nauki jazdy i pilotażu",
                   "subclasses": []
                 },
                 {
                   "code": "85.59",
-                  "name": "Pozostałe formy edukacji, gdzie indziej",
-                  "subclasses": []
+                  "name": "Pozostałe formy edukacji, gdzie indziej niesklasyfikowane",
+                  "subclasses": [
+                    {
+                      "code": "85.59.A",
+                      "name": "85.59.A  Nauka języków obcych"
+                    },
+                    {
+                      "code": "85.59.B",
+                      "name": "85.59.B  Kursy i szkolenia związane ze zdobywaniem wiedzy, umiejętności i kwalifikacji zawodowych w formach pozaszkolnych"
+                    },
+                    {
+                      "code": "85.59.C",
+                      "name": "85.59.C  Placówki doskonalenia nauczycieli 85.59.D  Pozostałe pozaszkolne formy edukacji, gdzie indziej niesklasyfikowane"
+                    }
+                  ]
                 }
               ],
               "code": "85.5",
@@ -4150,12 +4623,12 @@
               "classes": [
                 {
                   "code": "85.61",
-                  "name": "85.61.Z  Pośrednictwo w zakresie prowadzenia kursów i",
+                  "name": "85.61.Z  Pośrednictwo w zakresie prowadzenia kursów i korepetycji",
                   "subclasses": []
                 },
                 {
                   "code": "85.69",
-                  "name": "85.69.Z  Działalność wspomagająca edukację, gdzie indziej",
+                  "name": "85.69.Z  Działalność wspomagająca edukację, gdzie indziej niesklasyfikowana",
                   "subclasses": []
                 }
               ],
@@ -4204,8 +4677,17 @@
               "classes": [
                 {
                   "code": "86.91",
-                  "name": "Działalność w zakresie diagnostyki obrazowej i",
-                  "subclasses": []
+                  "name": "Działalność w zakresie diagnostyki obrazowej i działalność laboratoriów medycznych",
+                  "subclasses": [
+                    {
+                      "code": "86.91.A",
+                      "name": "86.91.A  Działalność w zakresie diagnostyki obrazowej"
+                    },
+                    {
+                      "code": "86.91.B",
+                      "name": "86.91.B  Działalność samodzielnych laboratoriów medycznych"
+                    }
+                  ]
                 },
                 {
                   "code": "86.92",
@@ -4214,7 +4696,7 @@
                 },
                 {
                   "code": "86.93",
-                  "name": "86.93.Z  Działalność psychologiczna i psychoterapeutyczna, z",
+                  "name": "86.93.Z  Działalność psychologiczna i psychoterapeutyczna, z wyłączeniem lekarskiej",
                   "subclasses": []
                 },
                 {
@@ -4229,18 +4711,35 @@
                 },
                 {
                   "code": "86.96",
-                  "name": "86.96.Z  Działalność w zakresie medycyny tradycyjnej,",
+                  "name": "86.96.Z  Działalność w zakresie medycyny tradycyjnej, uzupełniającej i alternatywnej",
                   "subclasses": []
                 },
                 {
                   "code": "86.97",
-                  "name": "86.97.Z  Pośrednictwo związane z działalnością lekarską,",
+                  "name": "86.97.Z  Pośrednictwo związane z działalnością lekarską, dentystyczną i pozostałą działalnością w zakresie opieki zdrowotnej",
                   "subclasses": []
                 },
                 {
                   "code": "86.99",
-                  "name": "Pozostała działalność w zakresie opieki zdrowotnej,",
-                  "subclasses": []
+                  "name": "Pozostała działalność w zakresie opieki zdrowotnej, gdzie indziej niesklasyfikowana",
+                  "subclasses": [
+                    {
+                      "code": "86.99.A",
+                      "name": "86.99.A  Opieka farmaceutyczna"
+                    },
+                    {
+                      "code": "86.99.B",
+                      "name": "86.99.B  Działalność dietetyczna"
+                    },
+                    {
+                      "code": "86.99.C",
+                      "name": "86.99.C  Działalność logopedyczna"
+                    },
+                    {
+                      "code": "86.99.D",
+                      "name": "86.99.D  Działalność w zakresie pozostałej opieki zdrowotnej"
+                    }
+                  ]
                 }
               ],
               "code": "86.9",
@@ -4255,28 +4754,28 @@
             {
               "classes": [],
               "code": "87.1",
-              "name": "87.10  87.10.Z  Pomoc społeczna z zakwaterowaniem zapewniająca"
+              "name": "87.10  87.10.Z  Pomoc społeczna z zakwaterowaniem zapewniająca opiekę pielęgniarską"
             },
             {
               "classes": [],
               "code": "87.2",
-              "name": "87.20  87.20.Z  Pomoc społeczna z zakwaterowaniem dla osób z"
+              "name": "87.20  87.20.Z  Pomoc społeczna z zakwaterowaniem dla osób z zaburzeniami psychicznymi lub uzależnieniami"
             },
             {
               "classes": [],
               "code": "87.3",
-              "name": "87.30  87.30.Z  Pomoc społeczna z zakwaterowaniem dla osób"
+              "name": "87.30  87.30.Z  Pomoc społeczna z zakwaterowaniem dla osób starszych lub osób z niepełnosprawnościami ruchowymi"
             },
             {
               "classes": [
                 {
                   "code": "87.91",
-                  "name": "87.91.Z  Pośrednictwo w zakresie pomocy społecznej z",
+                  "name": "87.91.Z  Pośrednictwo w zakresie pomocy społecznej z zakwaterowaniem",
                   "subclasses": []
                 },
                 {
                   "code": "87.99",
-                  "name": "87.99.Z  Pozostała pomoc społeczna z zakwaterowaniem,",
+                  "name": "87.99.Z  Pozostała pomoc społeczna z zakwaterowaniem, gdzie indziej niesklasyfikowana",
                   "subclasses": []
                 }
               ],
@@ -4292,7 +4791,7 @@
             {
               "classes": [],
               "code": "88.1",
-              "name": "88.10  88.10.Z  Pomoc społeczna bez zakwaterowania dla osób"
+              "name": "88.10  88.10.Z  Pomoc społeczna bez zakwaterowania dla osób starszych lub osób z niepełnosprawnościami"
             },
             {
               "classes": [
@@ -4303,7 +4802,7 @@
                 },
                 {
                   "code": "88.99",
-                  "name": "88.99.Z  Pozostała pomoc społeczna bez zakwaterowania,",
+                  "name": "88.99.Z  Pozostała pomoc społeczna bez zakwaterowania, gdzie indziej niesklasyfikowana",
                   "subclasses": []
                 }
               ],
@@ -4326,7 +4825,7 @@
               "classes": [
                 {
                   "code": "90.11",
-                  "name": "90.11.Z  Działalność literacka i działalność związana z",
+                  "name": "90.11.Z  Działalność literacka i działalność związana z komponowaniem muzyki",
                   "subclasses": []
                 },
                 {
@@ -4344,28 +4843,50 @@
               "name": "Działalność twórcza"
             },
             {
-              "classes": [],
+              "classes": [
+                {
+                  "code": "90.20.A",
+                  "name": "90.20.A  Działalność artystyczna filharmonii, orkiestr i chórów"
+                },
+                {
+                  "code": "90.20.B",
+                  "name": "90.20.B  Działalność teatralna"
+                },
+                {
+                  "code": "90.20.C",
+                  "name": "90.20.C  Pozostała działalność związana z wystawianiem przedstawień artystycznych"
+                }
+              ],
               "code": "90.2",
-              "name": "90.20  Działalność związana z wystawianiem przedstawień"
+              "name": "90.20  Działalność związana z wystawianiem przedstawień artystycznych"
             },
             {
               "classes": [
                 {
                   "code": "90.31",
                   "name": "Działalność obiektów kulturalnych",
-                  "subclasses": []
+                  "subclasses": [
+                    {
+                      "code": "90.31.A",
+                      "name": "90.31.A  Działalność centrów kultury, domów i ośrodków kultury, klubów i świetlic"
+                    },
+                    {
+                      "code": "90.31.B",
+                      "name": "90.31.B  Działalność pozostałych obiektów kulturalnych"
+                    }
+                  ]
                 },
                 {
                   "code": "90.39",
-                  "name": "90.39.Z  Pozostała działalność wspomagająca działalność",
+                  "name": "90.39.Z  Pozostała działalność wspomagająca działalność twórczą i działalność związaną z wystawianiem przedstawień artystycznych",
                   "subclasses": []
                 }
               ],
               "code": "90.3",
-              "name": "Działalność wspomagająca działalność twórczą i"
+              "name": "Działalność wspomagająca działalność twórczą i związaną z wystawianiem przedstawień artystycznych"
             }
           ],
-          "name": "Działalność twórcza i działalność związana z"
+          "name": "Działalność twórcza i działalność związana z wystawianiem przedstawień artystycznych"
         },
         {
           "code": "91",
@@ -4390,29 +4911,51 @@
               "classes": [
                 {
                   "code": "91.21",
-                  "name": "Działalność muzeów oraz działalność związana z",
-                  "subclasses": []
+                  "name": "Działalność muzeów oraz działalność związana z opieką nad zbiorami muzealnymi",
+                  "subclasses": [
+                    {
+                      "code": "91.21.A",
+                      "name": "91.21.A  Działalność muzeów"
+                    },
+                    {
+                      "code": "91.21.B",
+                      "name": "91.21.B  Działalność galerii sztuki"
+                    },
+                    {
+                      "code": "91.21.C",
+                      "name": "91.21.C  Działalność pozostałych podmiotów prezentujących kolekcje dzieł sztuki"
+                    }
+                  ]
                 },
                 {
                   "code": "91.22",
-                  "name": "91.22.Z  Działalność związana z miejscami historycznymi i",
+                  "name": "91.22.Z  Działalność związana z miejscami historycznymi i pomnikami 65 Struktura klasyfikacji (wykaz grupowań)",
                   "subclasses": []
                 }
               ],
               "code": "91.2",
-              "name": "Działalność muzeów oraz działalność związana z"
+              "name": "Działalność muzeów oraz działalność związana z opieką nad zbiorami muzealnymi, miejscami historycznymi i pomnikami"
             },
             {
               "classes": [],
               "code": "91.3",
-              "name": "91.30  91.30.Z  Działalność w zakresie konserwacji i renowacji oraz"
+              "name": "91.30  91.30.Z  Działalność w zakresie konserwacji i renowacji oraz pozostała działalność wspomagająca na rzecz dziedzictwa kulturowego"
             },
             {
               "classes": [
                 {
                   "code": "91.41",
                   "name": "Działalność ogrodów botanicznych i zoologicznych",
-                  "subclasses": []
+                  "subclasses": [
+                    {
+                      "code": "91.41.A",
+                      "name": "91.41.A  Działalność ogrodów botanicznych"
+                    },
+                    {
+                      "code": "91.41.B",
+                      "name": "91.41.B  Działalność ogrodów zoologicznych"
+                    }
+                  ]
                 },
                 {
                   "code": "91.42",
@@ -4421,10 +4964,10 @@
                 }
               ],
               "code": "91.4",
-              "name": "Działalność ogrodów botanicznych i zoologicznych"
+              "name": "Działalność ogrodów botanicznych i zoologicznych oraz obszarów i obiektów ochrony przyrody"
             }
           ],
-          "name": "Działalność bibliotek, archiwów, muzeów oraz"
+          "name": "Działalność bibliotek, archiwów, muzeów oraz pozostała działalność związana z kulturą"
         },
         {
           "code": "92",
@@ -4453,7 +4996,7 @@
                 },
                 {
                   "code": "93.19",
-                  "name": "93.19.Z  Działalność sportowa, gdzie indziej",
+                  "name": "93.19.Z  Działalność sportowa, gdzie indziej niesklasyfikowana",
                   "subclasses": []
                 }
               ],
@@ -4469,8 +5012,17 @@
                 },
                 {
                   "code": "93.29",
-                  "name": "Działalność rozrywkowa i rekreacyjna, gdzie indziej",
-                  "subclasses": []
+                  "name": "Działalność rozrywkowa i rekreacyjna, gdzie indziej niesklasyfikowana",
+                  "subclasses": [
+                    {
+                      "code": "93.29.A",
+                      "name": "93.29.A  Działalność pokojów zagadek, domów strachu, miejsc do tańczenia i w zakresie innych form rozrywki lub rekreacji organizowanych w pomieszczeniach lub w innych miejscach o zamkniętej przestrzeni"
+                    },
+                    {
+                      "code": "93.29.B",
+                      "name": "93.29.B  Pozostała działalność rozrywkowa i rekreacyjna, gdzie indziej niesklasyfikowana"
+                    }
+                  ]
                 }
               ],
               "code": "93.2",
@@ -4480,7 +5032,7 @@
           "name": "Działalność sportowa, rozrywkowa i rekreacyjna"
         }
       ],
-      "name": " DZIAŁALNOŚĆ ZWIĄZANA Z KULTURĄ, SPORTEM I"
+      "name": " DZIAŁALNOŚĆ ZWIĄZANA Z KULTURĄ, SPORTEM I REKREACJĄ"
     },
     {
       "code": "T",
@@ -4492,7 +5044,7 @@
               "classes": [
                 {
                   "code": "94.11",
-                  "name": "94.11.Z  Działalność organizacji komercyjnych i",
+                  "name": "94.11.Z  Działalność organizacji komercyjnych i pracodawców",
                   "subclasses": []
                 },
                 {
@@ -4502,7 +5054,7 @@
                 }
               ],
               "code": "94.1",
-              "name": "Działalność organizacji komercyjnych, pracodawców"
+              "name": "Działalność organizacji komercyjnych, pracodawców oraz organizacji profesjonalnych"
             },
             {
               "classes": [],
@@ -4523,7 +5075,7 @@
                 },
                 {
                   "code": "94.99",
-                  "name": "94.99.Z  Działalność pozostałych organizacji członkowskich,",
+                  "name": "94.99.Z  Działalność pozostałych organizacji członkowskich, gdzie indziej niesklasyfikowana",
                   "subclasses": []
                 }
               ],
@@ -4539,50 +5091,63 @@
             {
               "classes": [],
               "code": "95.1",
-              "name": "95.10  95.10.Z  Naprawa i konserwacja komputerów i sprzętu"
+              "name": "95.10  95.10.Z  Naprawa i konserwacja komputerów i sprzętu (tele)komunikacyjnego"
             },
             {
               "classes": [
                 {
                   "code": "95.21",
-                  "name": "95.21.Z  Naprawa i konserwacja elektronicznego sprzętu",
+                  "name": "95.21.Z  Naprawa i konserwacja elektronicznego sprzętu powszechnego użytku",
                   "subclasses": []
                 },
                 {
                   "code": "95.22",
-                  "name": "95.22.Z  Naprawa i konserwacja urządzeń gospodarstwa",
+                  "name": "95.22.Z  Naprawa i konserwacja urządzeń gospodarstwa domowego oraz sprzętu do użytku domowego i ogrodniczego",
                   "subclasses": []
                 },
                 {
                   "code": "95.23",
-                  "name": "95.23.Z  Naprawa i konserwacja obuwia i wyrobów",
+                  "name": "95.23.Z  Naprawa i konserwacja obuwia i wyrobów skórzanych",
                   "subclasses": []
                 },
                 {
                   "code": "95.24",
-                  "name": "95.24.Z  Naprawa i konserwacja mebli i wyposażenia",
+                  "name": "95.24.Z  Naprawa i konserwacja mebli i wyposażenia domowego",
                   "subclasses": []
                 },
                 {
                   "code": "95.25",
-                  "name": "95.25.Z  Naprawa i konserwacja zegarów, zegarków oraz",
+                  "name": "95.25.Z  Naprawa i konserwacja zegarów, zegarków oraz biżuterii",
                   "subclasses": []
                 },
                 {
                   "code": "95.29",
-                  "name": "95.29.Z  Naprawa i konserwacja artykułów użytku osobistego",
+                  "name": "95.29.Z  Naprawa i konserwacja artykułów użytku osobistego i domowego, gdzie indziej niesklasyfikowana",
                   "subclasses": []
                 }
               ],
               "code": "95.2",
-              "name": "Naprawa i konserwacja artykułów użytku osobistego"
+              "name": "Naprawa i konserwacja artykułów użytku osobistego i domowego"
             },
             {
               "classes": [
                 {
                   "code": "95.31",
-                  "name": "Naprawa i konserwacja pojazdów silnikowych, z",
-                  "subclasses": []
+                  "name": "Naprawa i konserwacja pojazdów silnikowych, z wyłączeniem motocykli",
+                  "subclasses": [
+                    {
+                      "code": "95.31.A",
+                      "name": "95.31.A  Naprawa mechaniczna i serwisowa pojazdów silnikowych, z wyłączeniem motocykli"
+                    },
+                    {
+                      "code": "95.31.B",
+                      "name": "95.31.B  Naprawa blacharsko-lakiernicza oraz konserwacja pojazdów silnikowych, z wyłączeniem motocykli"
+                    },
+                    {
+                      "code": "95.31.C",
+                      "name": "95.31.C  Działalność usługowa detailingu pojazdów silnikowych, z wyłączeniem motocykli"
+                    }
+                  ]
                 },
                 {
                   "code": "95.32",
@@ -4591,15 +5156,15 @@
                 }
               ],
               "code": "95.3",
-              "name": "Naprawa i konserwacja pojazdów silnikowych, w"
+              "name": "Naprawa i konserwacja pojazdów silnikowych, w tym motocykli"
             },
             {
               "classes": [],
               "code": "95.4",
-              "name": "95.40  95.40.Z  Pośrednictwo w naprawie i konserwacji komputerów,"
+              "name": "95.40  95.40.Z  Pośrednictwo w naprawie i konserwacji komputerów, artykułów użytku osobistego i domowego oraz pojazdów silnikowych, w tym motocykli"
             }
           ],
-          "name": "Naprawa i konserwacja komputerów, artykułów"
+          "name": "Naprawa i konserwacja komputerów, artykułów użytku osobistego i domowego oraz pojazdów silnikowych, w tym motocykli"
         },
         {
           "code": "96",
@@ -4607,7 +5172,7 @@
             {
               "classes": [],
               "code": "96.1",
-              "name": "96.10  96.10.Z  Pranie i czyszczenie wyrobów tekstylnych i"
+              "name": "96.10  96.10.Z  Pranie i czyszczenie wyrobów tekstylnych i futrzarskich"
             },
             {
               "classes": [
@@ -4618,7 +5183,7 @@
                 },
                 {
                   "code": "96.22",
-                  "name": "96.22.Z  Działalność w zakresie pielęgnacji urody i pozostała",
+                  "name": "96.22.Z  Działalność w zakresie pielęgnacji urody i pozostała działalność kosmetyczna",
                   "subclasses": []
                 },
                 {
@@ -4628,7 +5193,7 @@
                 }
               ],
               "code": "96.2",
-              "name": "Działalność w zakresie usług fryzjerskich,"
+              "name": "Działalność w zakresie usług fryzjerskich, pielęgnacji urody, spa i podobnych"
             },
             {
               "classes": [],
@@ -4644,12 +5209,12 @@
               "classes": [
                 {
                   "code": "96.91",
-                  "name": "96.91.Z  Działalność usługowa na rzecz osób w miejscu",
+                  "name": "96.91.Z  Działalność usługowa na rzecz osób w miejscu zamieszkania",
                   "subclasses": []
                 },
                 {
                   "code": "96.99",
-                  "name": "96.99.Z  Pozostała działalność usługowa, gdzie indziej",
+                  "name": "96.99.Z  Pozostała działalność usługowa, gdzie indziej niesklasyfikowana",
                   "subclasses": []
                 }
               ],
@@ -4676,18 +5241,18 @@
             {
               "classes": [],
               "code": "98.1",
-              "name": "98.10  98.10.Z  Gospodarstwa domowe produkujące wyroby na"
+              "name": "98.10  98.10.Z  Gospodarstwa domowe produkujące wyroby na własne potrzeby"
             },
             {
               "classes": [],
               "code": "98.2",
-              "name": "98.20  98.20.Z  Gospodarstwa domowe świadczące usługi na własne"
+              "name": "98.20  98.20.Z  Gospodarstwa domowe świadczące usługi na własne potrzeby"
             }
           ],
-          "name": "Gospodarstwa domowe produkujące wyroby i"
+          "name": "Gospodarstwa domowe produkujące wyroby i świadczące usługi na własne potrzeby"
         }
       ],
-      "name": " GOSPODARSTWA DOMOWE ZATRUDNIAJĄCE"
+      "name": " GOSPODARSTWA DOMOWE ZATRUDNIAJĄCE PRACOWNIKÓW ORAZ GOSPODARSTWA DOMOWE PRODUKUJĄCE WYROBY I ŚWIADCZĄCE USŁUGI NA WŁASNE POTRZEBY"
     },
     {
       "code": "V",
