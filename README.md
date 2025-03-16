@@ -3,6 +3,7 @@
 Polska Klasyfikacja Działalności - PKD 2025 w formatach:
 
 * [JSON](https://github.com/Dane-Nieugotowane/PKD2025/blob/main/json/pkd-2025.json)
+* [YAML](https://github.com/Dane-Nieugotowane/PKD2025/blob/main/yaml/pkd-2025.yaml)
 
 ## Źródło danych
 
